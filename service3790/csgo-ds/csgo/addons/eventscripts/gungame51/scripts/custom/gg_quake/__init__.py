@@ -1,0 +1,1 @@
+# ../addons/eventscripts/gungame51/scripts/custom/gg_quake/__init__.py

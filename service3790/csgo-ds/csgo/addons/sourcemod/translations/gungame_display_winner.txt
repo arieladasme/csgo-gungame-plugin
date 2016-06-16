@@ -1,0 +1,10 @@
+"Phrases"
+{
+    "GANADOR"
+    {
+        "#format"    "{1:s}"
+        
+		"es"     "{GREEN}[GunGame] {teamcolor} {1} {RED} HA GANADO  !"
+		
+    }
+}

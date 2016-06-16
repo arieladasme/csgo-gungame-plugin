@@ -1,0 +1,640 @@
+L 06/11/2016 - 00:08:45: SourceMod error session started
+L 06/11/2016 - 00:08:45: Info (map "workshop/175314656/ar_3rooms") (file "errors_20160611.log")
+L 06/11/2016 - 00:08:45: Error log file session closed.
+L 06/11/2016 - 00:09:45: SourceMod error session started
+L 06/11/2016 - 00:09:45: Info (map "workshop/175314656/ar_3rooms") (file "errors_20160611.log")
+L 06/11/2016 - 00:09:45: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 00:09:45: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 00:09:45: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 00:09:45: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 00:19:47: Error log file session closed.
+L 06/11/2016 - 00:20:47: SourceMod error session started
+L 06/11/2016 - 00:20:47: Info (map "workshop/125750763/aim_warmup_d") (file "errors_20160611.log")
+L 06/11/2016 - 00:20:47: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 00:20:47: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 00:20:47: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 00:20:47: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 00:30:29: Error log file session closed.
+L 06/11/2016 - 00:31:29: SourceMod error session started
+L 06/11/2016 - 00:31:29: Info (map "workshop/125622128/gg_dehydrated") (file "errors_20160611.log")
+L 06/11/2016 - 00:31:29: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 00:31:29: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 00:31:29: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 00:31:29: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 00:39:54: Error log file session closed.
+L 06/11/2016 - 00:40:54: SourceMod error session started
+L 06/11/2016 - 00:40:54: Info (map "workshop/125651631/fy_dinoiceworld_t0") (file "errors_20160611.log")
+L 06/11/2016 - 00:40:54: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 00:40:54: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 00:40:54: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 00:40:54: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 00:53:21: Error log file session closed.
+L 06/11/2016 - 00:54:21: SourceMod error session started
+L 06/11/2016 - 00:54:21: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 00:54:21: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 00:54:21: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 00:54:21: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 00:54:21: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 01:04:32: Error log file session closed.
+L 06/11/2016 - 01:05:32: SourceMod error session started
+L 06/11/2016 - 01:05:32: Info (map "workshop/438373873/aim_map_night") (file "errors_20160611.log")
+L 06/11/2016 - 01:05:32: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 01:05:32: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 01:05:32: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 01:05:32: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 01:18:52: Error log file session closed.
+L 06/11/2016 - 01:19:52: SourceMod error session started
+L 06/11/2016 - 01:19:52: Info (map "workshop/338637068/gg_bloodstroke_dtk") (file "errors_20160611.log")
+L 06/11/2016 - 01:19:52: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 01:19:52: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 01:19:52: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 01:19:52: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 01:32:39: Error log file session closed.
+L 06/11/2016 - 01:33:39: SourceMod error session started
+L 06/11/2016 - 01:33:39: Info (map "workshop/400539860/aim_deagle_jakke") (file "errors_20160611.log")
+L 06/11/2016 - 01:33:39: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 01:33:39: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 01:33:39: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 01:33:39: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 01:50:23: Error log file session closed.
+L 06/11/2016 - 01:51:23: SourceMod error session started
+L 06/11/2016 - 01:51:23: Info (map "workshop/301918935/aim_bluebox") (file "errors_20160611.log")
+L 06/11/2016 - 01:51:23: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 01:51:23: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 01:51:23: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 01:51:23: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 02:06:42: Error log file session closed.
+L 06/11/2016 - 02:07:42: SourceMod error session started
+L 06/11/2016 - 02:07:42: Info (map "workshop/491618300/fy_dusty") (file "errors_20160611.log")
+L 06/11/2016 - 02:07:42: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 02:07:42: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 02:07:42: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 02:07:42: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 02:21:07: Error log file session closed.
+L 06/11/2016 - 02:22:07: SourceMod error session started
+L 06/11/2016 - 02:22:07: Info (map "workshop/126643563/ar_concrete") (file "errors_20160611.log")
+L 06/11/2016 - 02:22:07: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 02:22:07: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 02:22:07: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 02:22:07: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 02:36:10: Error log file session closed.
+L 06/11/2016 - 02:37:10: SourceMod error session started
+L 06/11/2016 - 02:37:10: Info (map "workshop/142683776/fy_iceworld2k_t0") (file "errors_20160611.log")
+L 06/11/2016 - 02:37:10: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 02:37:10: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 02:37:10: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 02:37:10: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 02:46:00: Error log file session closed.
+L 06/11/2016 - 02:47:00: SourceMod error session started
+L 06/11/2016 - 02:47:00: Info (map "workshop/201349329/fy_simpsons_32") (file "errors_20160611.log")
+L 06/11/2016 - 02:47:00: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 02:47:00: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 02:47:00: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 02:47:00: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 02:57:45: Error log file session closed.
+L 06/11/2016 - 02:58:45: SourceMod error session started
+L 06/11/2016 - 02:58:45: Info (map "workshop/172740415/ar_poolstay") (file "errors_20160611.log")
+L 06/11/2016 - 02:58:45: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 02:58:45: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 02:58:45: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 02:58:45: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 03:06:40: Error log file session closed.
+L 06/11/2016 - 03:07:40: SourceMod error session started
+L 06/11/2016 - 03:07:40: Info (map "workshop/258530919/ar_rxg-gravity") (file "errors_20160611.log")
+L 06/11/2016 - 03:07:40: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 03:07:40: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 03:07:40: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 03:07:40: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 03:19:48: Error log file session closed.
+L 06/11/2016 - 03:20:48: SourceMod error session started
+L 06/11/2016 - 03:20:48: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 03:20:48: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 03:20:48: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 03:20:48: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 03:20:48: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 03:26:56: Error log file session closed.
+L 06/11/2016 - 03:27:56: SourceMod error session started
+L 06/11/2016 - 03:27:56: Info (map "workshop/307921746/aim_awp_bungalow") (file "errors_20160611.log")
+L 06/11/2016 - 03:27:56: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 03:27:56: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 03:27:56: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 03:27:56: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 03:36:14: Error log file session closed.
+L 06/11/2016 - 03:37:14: SourceMod error session started
+L 06/11/2016 - 03:37:14: Info (map "workshop/125728649/ar_freeze_csgo") (file "errors_20160611.log")
+L 06/11/2016 - 03:37:14: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 03:37:14: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 03:37:14: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 03:37:14: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 03:56:57: Error log file session closed.
+L 06/11/2016 - 03:58:01: SourceMod error session started
+L 06/11/2016 - 03:58:01: Info (map "workshop/239943652/ar_gg_dm_fy_clusterfaak") (file "errors_20160611.log")
+L 06/11/2016 - 03:58:01: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 03:58:01: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 03:58:01: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 03:58:01: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 04:06:35: Error log file session closed.
+L 06/11/2016 - 04:07:37: SourceMod error session started
+L 06/11/2016 - 04:07:37: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 04:07:37: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 04:07:37: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 04:07:37: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 04:07:37: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 04:14:07: Error log file session closed.
+L 06/11/2016 - 04:15:07: SourceMod error session started
+L 06/11/2016 - 04:15:07: Info (map "workshop/177636963/ar_shotty") (file "errors_20160611.log")
+L 06/11/2016 - 04:15:07: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 04:15:07: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 04:15:07: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 04:15:07: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 04:22:03: Error log file session closed.
+L 06/11/2016 - 04:23:03: SourceMod error session started
+L 06/11/2016 - 04:23:03: Info (map "workshop/282977521/aim_chicken_ak") (file "errors_20160611.log")
+L 06/11/2016 - 04:23:03: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 04:23:03: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 04:23:03: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 04:23:03: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 04:30:13: Error log file session closed.
+L 06/11/2016 - 04:31:13: SourceMod error session started
+L 06/11/2016 - 04:31:13: Info (map "workshop/369402945/fy_epinephrin_final") (file "errors_20160611.log")
+L 06/11/2016 - 04:31:13: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 04:31:13: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 04:31:13: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 04:31:13: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 04:50:19: Error log file session closed.
+L 06/11/2016 - 04:51:21: SourceMod error session started
+L 06/11/2016 - 04:51:21: Info (map "ar_shoots") (file "errors_20160611.log")
+L 06/11/2016 - 04:51:21: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 04:51:21: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 04:51:21: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 04:51:21: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 06:57:07: Error log file session closed.
+L 06/11/2016 - 06:58:07: SourceMod error session started
+L 06/11/2016 - 06:58:07: Info (map "ar_shoots") (file "errors_20160611.log")
+L 06/11/2016 - 06:58:07: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 06:58:07: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 06:58:07: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 06:58:07: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 07:11:45: Error log file session closed.
+L 06/11/2016 - 07:12:45: SourceMod error session started
+L 06/11/2016 - 07:12:45: Info (map "workshop/595069956/aim_map_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 07:12:45: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 07:12:45: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 07:12:45: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 07:12:45: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 07:22:08: Error log file session closed.
+L 06/11/2016 - 07:23:08: SourceMod error session started
+L 06/11/2016 - 07:23:08: Info (map "workshop/249814502/$2000$csgo") (file "errors_20160611.log")
+L 06/11/2016 - 07:23:08: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 07:23:08: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 07:23:08: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 07:23:08: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 07:32:31: Error log file session closed.
+L 06/11/2016 - 07:33:31: SourceMod error session started
+L 06/11/2016 - 07:33:31: Info (map "workshop/147259190/gg_lego_spacetower") (file "errors_20160611.log")
+L 06/11/2016 - 07:33:31: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 07:33:31: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 07:33:31: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 07:33:31: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 07:49:09: Error log file session closed.
+L 06/11/2016 - 07:50:09: SourceMod error session started
+L 06/11/2016 - 07:50:09: Info (map "workshop/147259190/gg_lego_spacetower") (file "errors_20160611.log")
+L 06/11/2016 - 07:50:09: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 07:50:09: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 07:50:09: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 07:50:09: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 07:58:16: Error log file session closed.
+L 06/11/2016 - 10:14:38: SourceMod error session started
+L 06/11/2016 - 10:14:38: Info (map "workshop/126643563/ar_concrete") (file "errors_20160611.log")
+L 06/11/2016 - 10:14:38: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 10:14:38: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 10:14:38: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 10:14:38: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 10:14:40: Error log file session closed.
+L 06/11/2016 - 10:15:41: SourceMod error session started
+L 06/11/2016 - 10:15:41: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 10:15:41: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 10:15:41: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 10:15:41: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 10:15:41: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 10:22:00: Error log file session closed.
+L 06/11/2016 - 10:23:01: SourceMod error session started
+L 06/11/2016 - 10:23:01: Info (map "workshop/126658652/gg_endorush") (file "errors_20160611.log")
+L 06/11/2016 - 10:23:01: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 10:23:01: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 10:23:01: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 10:23:01: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 11:08:07: Error log file session closed.
+L 06/11/2016 - 11:09:07: SourceMod error session started
+L 06/11/2016 - 11:09:07: Info (map "workshop/125653222/fy_stoneworld_t0_beta3") (file "errors_20160611.log")
+L 06/11/2016 - 11:09:07: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 11:09:07: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 11:09:07: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 11:09:07: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 11:09:32: Error log file session closed.
+L 06/11/2016 - 11:10:32: SourceMod error session started
+L 06/11/2016 - 11:10:32: Info (map "workshop/125653222/fy_stoneworld_t0_beta3") (file "errors_20160611.log")
+L 06/11/2016 - 11:10:32: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 11:10:32: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 11:10:32: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 11:10:32: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 11:28:37: Error log file session closed.
+L 06/11/2016 - 12:52:48: SourceMod error session started
+L 06/11/2016 - 12:52:48: Info (map "workshop/165993910/fy_tibet") (file "errors_20160611.log")
+L 06/11/2016 - 12:52:48: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 12:52:48: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 12:52:48: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 12:52:48: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 12:52:49: Error log file session closed.
+L 06/11/2016 - 12:53:49: SourceMod error session started
+L 06/11/2016 - 12:53:49: Info (map "workshop/165993910/fy_tibet") (file "errors_20160611.log")
+L 06/11/2016 - 12:53:49: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 12:53:49: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 12:53:49: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 12:53:49: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:25:05: Error log file session closed.
+L 06/11/2016 - 13:26:05: SourceMod error session started
+L 06/11/2016 - 13:26:05: Info (map "workshop/325456413/aim_selfie") (file "errors_20160611.log")
+L 06/11/2016 - 13:26:05: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:26:05: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:26:05: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:26:05: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:34:17: Error log file session closed.
+L 06/11/2016 - 13:35:19: SourceMod error session started
+L 06/11/2016 - 13:35:19: Info (map "workshop/172740415/ar_poolstay") (file "errors_20160611.log")
+L 06/11/2016 - 13:35:19: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:35:19: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:35:19: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:35:19: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:36:26: Error log file session closed.
+L 06/11/2016 - 13:37:26: SourceMod error session started
+L 06/11/2016 - 13:37:26: Info (map "workshop/133684541/ar_storage") (file "errors_20160611.log")
+L 06/11/2016 - 13:37:26: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:37:26: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:37:26: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:37:26: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:37:40: Error log file session closed.
+L 06/11/2016 - 13:38:40: SourceMod error session started
+L 06/11/2016 - 13:38:40: Info (map "workshop/171893126/fy_house") (file "errors_20160611.log")
+L 06/11/2016 - 13:38:40: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:38:40: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:38:40: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:38:40: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:45:52: Error log file session closed.
+L 06/11/2016 - 13:46:52: SourceMod error session started
+L 06/11/2016 - 13:46:52: Info (map "workshop/249814502/$2000$csgo") (file "errors_20160611.log")
+L 06/11/2016 - 13:46:52: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:46:52: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:46:52: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:46:52: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 13:57:37: Error log file session closed.
+L 06/11/2016 - 13:58:37: SourceMod error session started
+L 06/11/2016 - 13:58:37: Info (map "workshop/369402945/fy_epinephrin_final") (file "errors_20160611.log")
+L 06/11/2016 - 13:58:37: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 13:58:37: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 13:58:37: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 13:58:37: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:03:43: Error log file session closed.
+L 06/11/2016 - 14:04:43: SourceMod error session started
+L 06/11/2016 - 14:04:43: Info (map "workshop/479805646/aim_warmup_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 14:04:43: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:04:43: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:04:43: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:04:43: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:11:22: Error log file session closed.
+L 06/11/2016 - 14:12:22: SourceMod error session started
+L 06/11/2016 - 14:12:22: Info (map "workshop/479805646/aim_warmup_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 14:12:22: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:12:22: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:12:22: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:12:22: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:20:35: Error log file session closed.
+L 06/11/2016 - 14:21:35: SourceMod error session started
+L 06/11/2016 - 14:21:35: Info (map "workshop/305015405/fy_repub") (file "errors_20160611.log")
+L 06/11/2016 - 14:21:35: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:21:35: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:21:35: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:21:35: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:29:39: Error log file session closed.
+L 06/11/2016 - 14:30:39: SourceMod error session started
+L 06/11/2016 - 14:30:39: Info (map "workshop/177128990/ar_desertstorm") (file "errors_20160611.log")
+L 06/11/2016 - 14:30:39: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:30:39: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:30:39: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:30:39: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:42:22: Error log file session closed.
+L 06/11/2016 - 14:43:23: SourceMod error session started
+L 06/11/2016 - 14:43:23: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 14:43:23: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:43:23: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:43:23: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:43:23: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 14:51:15: Error log file session closed.
+L 06/11/2016 - 14:52:15: SourceMod error session started
+L 06/11/2016 - 14:52:15: Info (map "workshop/491751274/fy_frantic") (file "errors_20160611.log")
+L 06/11/2016 - 14:52:15: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 14:52:15: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 14:52:15: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 14:52:15: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 15:05:57: Error log file session closed.
+L 06/11/2016 - 15:06:58: SourceMod error session started
+L 06/11/2016 - 15:06:58: Info (map "workshop/144290900/ar_cubedeath") (file "errors_20160611.log")
+L 06/11/2016 - 15:06:58: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 15:06:58: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 15:06:58: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 15:06:58: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 15:16:10: Error log file session closed.
+L 06/11/2016 - 15:17:10: SourceMod error session started
+L 06/11/2016 - 15:17:10: Info (map "workshop/167335948/ar_warehouse") (file "errors_20160611.log")
+L 06/11/2016 - 15:17:10: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 15:17:10: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 15:17:10: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 15:17:10: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 15:31:28: Error log file session closed.
+L 06/11/2016 - 15:32:28: SourceMod error session started
+L 06/11/2016 - 15:32:28: Info (map "workshop/562624578/gg_zenith") (file "errors_20160611.log")
+L 06/11/2016 - 15:32:28: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 15:32:28: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 15:32:28: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 15:32:28: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 15:44:36: Error log file session closed.
+L 06/11/2016 - 15:45:36: SourceMod error session started
+L 06/11/2016 - 15:45:36: Info (map "workshop/305015405/fy_repub") (file "errors_20160611.log")
+L 06/11/2016 - 15:45:36: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 15:45:36: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 15:45:36: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 15:45:36: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 15:57:10: Error log file session closed.
+L 06/11/2016 - 15:58:10: SourceMod error session started
+L 06/11/2016 - 15:58:10: Info (map "workshop/128714639/fy_blockfort_v2") (file "errors_20160611.log")
+L 06/11/2016 - 15:58:10: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 15:58:10: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 15:58:10: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 15:58:10: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 16:10:35: Error log file session closed.
+L 06/11/2016 - 16:11:35: SourceMod error session started
+L 06/11/2016 - 16:11:35: Info (map "workshop/126296412/ar_tipsy_b3") (file "errors_20160611.log")
+L 06/11/2016 - 16:11:35: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 16:11:35: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 16:11:35: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 16:11:35: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 16:24:01: Error log file session closed.
+L 06/11/2016 - 16:25:01: SourceMod error session started
+L 06/11/2016 - 16:25:01: Info (map "workshop/486698947/aim_map_training") (file "errors_20160611.log")
+L 06/11/2016 - 16:25:01: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 16:25:01: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 16:25:01: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 16:25:01: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 16:36:17: Error log file session closed.
+L 06/11/2016 - 16:37:18: SourceMod error session started
+L 06/11/2016 - 16:37:18: Info (map "workshop/312515983/aim_defender") (file "errors_20160611.log")
+L 06/11/2016 - 16:37:18: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 16:37:18: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 16:37:18: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 16:37:18: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 16:50:04: Error log file session closed.
+L 06/11/2016 - 16:51:04: SourceMod error session started
+L 06/11/2016 - 16:51:04: Info (map "workshop/438373873/aim_map_night") (file "errors_20160611.log")
+L 06/11/2016 - 16:51:04: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 16:51:04: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 16:51:04: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 16:51:04: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 17:01:04: Error log file session closed.
+L 06/11/2016 - 17:02:04: SourceMod error session started
+L 06/11/2016 - 17:02:04: Info (map "workshop/149100115/gg_FE_texture_shotz") (file "errors_20160611.log")
+L 06/11/2016 - 17:02:04: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 17:02:04: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 17:02:04: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 17:02:04: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 17:11:12: Error log file session closed.
+L 06/11/2016 - 17:12:12: SourceMod error session started
+L 06/11/2016 - 17:12:12: Info (map "workshop/595069956/aim_map_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 17:12:12: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 17:12:12: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 17:12:12: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 17:12:12: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 17:24:09: Error log file session closed.
+L 06/11/2016 - 17:25:09: SourceMod error session started
+L 06/11/2016 - 17:25:09: Info (map "workshop/125652030/fy_sandstone_t0") (file "errors_20160611.log")
+L 06/11/2016 - 17:25:09: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 17:25:09: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 17:25:09: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 17:25:09: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 17:37:55: Error log file session closed.
+L 06/11/2016 - 17:38:55: SourceMod error session started
+L 06/11/2016 - 17:38:55: Info (map "workshop/302792822/aim_bedi_awp_map") (file "errors_20160611.log")
+L 06/11/2016 - 17:38:55: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 17:38:55: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 17:38:55: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 17:38:55: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 17:54:04: Error log file session closed.
+L 06/11/2016 - 17:55:05: SourceMod error session started
+L 06/11/2016 - 17:55:05: Info (map "workshop/479805646/aim_warmup_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 17:55:05: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 17:55:05: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 17:55:05: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 17:55:05: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 18:03:11: Error log file session closed.
+L 06/11/2016 - 18:04:11: SourceMod error session started
+L 06/11/2016 - 18:04:11: Info (map "workshop/201349329/fy_simpsons_32") (file "errors_20160611.log")
+L 06/11/2016 - 18:04:11: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 18:04:11: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 18:04:11: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 18:04:11: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 18:13:00: Error log file session closed.
+L 06/11/2016 - 18:14:00: SourceMod error session started
+L 06/11/2016 - 18:14:00: Info (map "workshop/367344117/aim_dust_2015") (file "errors_20160611.log")
+L 06/11/2016 - 18:14:00: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 18:14:00: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 18:14:00: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 18:14:00: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 18:24:29: [gungame_sdkhooks.smx] [GunGame] Weapon index for "molotov_projectile" not found.
+L 06/11/2016 - 18:28:53: Error log file session closed.
+L 06/11/2016 - 18:29:53: SourceMod error session started
+L 06/11/2016 - 18:29:53: Info (map "workshop/126185932/gg_townsquare") (file "errors_20160611.log")
+L 06/11/2016 - 18:29:53: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 18:29:53: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 18:29:53: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 18:29:53: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 18:42:04: Error log file session closed.
+L 06/11/2016 - 18:43:04: SourceMod error session started
+L 06/11/2016 - 18:43:04: Info (map "workshop/122521875/fy_pool_day") (file "errors_20160611.log")
+L 06/11/2016 - 18:43:04: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 18:43:04: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 18:43:04: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 18:43:04: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 18:52:18: Error log file session closed.
+L 06/11/2016 - 18:53:18: SourceMod error session started
+L 06/11/2016 - 18:53:18: Info (map "workshop/126185932/gg_townsquare") (file "errors_20160611.log")
+L 06/11/2016 - 18:53:18: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 18:53:18: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 18:53:18: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 18:53:18: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 19:02:18: Error log file session closed.
+L 06/11/2016 - 19:03:18: SourceMod error session started
+L 06/11/2016 - 19:03:18: Info (map "workshop/126829889/fy_elevated_t0") (file "errors_20160611.log")
+L 06/11/2016 - 19:03:18: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 19:03:18: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 19:03:18: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 19:03:18: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 19:15:47: Error log file session closed.
+L 06/11/2016 - 19:16:47: SourceMod error session started
+L 06/11/2016 - 19:16:47: Info (map "workshop/125651631/fy_dinoiceworld_t0") (file "errors_20160611.log")
+L 06/11/2016 - 19:16:47: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 19:16:47: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 19:16:47: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 19:16:47: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 19:27:33: Error log file session closed.
+L 06/11/2016 - 19:28:33: SourceMod error session started
+L 06/11/2016 - 19:28:33: Info (map "ar_baggage") (file "errors_20160611.log")
+L 06/11/2016 - 19:28:33: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 19:28:33: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 19:28:33: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 19:28:33: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 19:44:41: Error log file session closed.
+L 06/11/2016 - 19:45:41: SourceMod error session started
+L 06/11/2016 - 19:45:41: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 19:45:41: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 19:45:41: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 19:45:41: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 19:45:41: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 19:53:11: Error log file session closed.
+L 06/11/2016 - 19:54:11: SourceMod error session started
+L 06/11/2016 - 19:54:11: Info (map "workshop/383502545/gg_exportz") (file "errors_20160611.log")
+L 06/11/2016 - 19:54:11: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 19:54:11: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 19:54:11: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 19:54:11: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 20:06:13: Error log file session closed.
+L 06/11/2016 - 20:07:13: SourceMod error session started
+L 06/11/2016 - 20:07:13: Info (map "workshop/562624578/gg_zenith") (file "errors_20160611.log")
+L 06/11/2016 - 20:07:13: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 20:07:13: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 20:07:13: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 20:07:13: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 20:18:20: Error log file session closed.
+L 06/11/2016 - 20:19:20: SourceMod error session started
+L 06/11/2016 - 20:19:20: Info (map "workshop/301918935/aim_bluebox") (file "errors_20160611.log")
+L 06/11/2016 - 20:19:20: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 20:19:20: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 20:19:20: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 20:19:20: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 20:24:44: Error log file session closed.
+L 06/11/2016 - 20:25:44: SourceMod error session started
+L 06/11/2016 - 20:25:44: Info (map "workshop/302792822/aim_bedi_awp_map") (file "errors_20160611.log")
+L 06/11/2016 - 20:25:44: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 20:25:44: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 20:25:44: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 20:25:44: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 20:45:30: Error log file session closed.
+L 06/11/2016 - 20:46:31: SourceMod error session started
+L 06/11/2016 - 20:46:31: Info (map "workshop/449416365/2_rooms_w") (file "errors_20160611.log")
+L 06/11/2016 - 20:46:31: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 20:46:31: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 20:46:31: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 20:46:31: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 20:54:51: Error log file session closed.
+L 06/11/2016 - 20:55:51: SourceMod error session started
+L 06/11/2016 - 20:55:51: Info (map "workshop/206792994/gg_sex_fixed") (file "errors_20160611.log")
+L 06/11/2016 - 20:55:51: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 20:55:51: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 20:55:51: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 20:55:51: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 21:05:03: Error log file session closed.
+L 06/11/2016 - 21:06:03: SourceMod error session started
+L 06/11/2016 - 21:06:03: Info (map "workshop/491618300/fy_dusty") (file "errors_20160611.log")
+L 06/11/2016 - 21:06:03: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 21:06:03: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 21:06:03: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 21:06:03: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 21:15:17: Error log file session closed.
+L 06/11/2016 - 21:16:17: SourceMod error session started
+L 06/11/2016 - 21:16:17: Info (map "workshop/314193157/mini_dust_pro") (file "errors_20160611.log")
+L 06/11/2016 - 21:16:17: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 21:16:17: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 21:16:17: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 21:16:17: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 21:27:59: Error log file session closed.
+L 06/11/2016 - 21:28:59: SourceMod error session started
+L 06/11/2016 - 21:28:59: Info (map "workshop/132434038/ak-47_map_csgo") (file "errors_20160611.log")
+L 06/11/2016 - 21:28:59: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 21:28:59: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 21:28:59: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 21:28:59: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 21:41:02: Error log file session closed.
+L 06/11/2016 - 21:42:02: SourceMod error session started
+L 06/11/2016 - 21:42:02: Info (map "workshop/491618300/fy_dusty") (file "errors_20160611.log")
+L 06/11/2016 - 21:42:02: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 21:42:02: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 21:42:02: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 21:42:02: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 21:54:29: Error log file session closed.
+L 06/11/2016 - 21:55:29: SourceMod error session started
+L 06/11/2016 - 21:55:29: Info (map "workshop/175410200/ar_funtimes") (file "errors_20160611.log")
+L 06/11/2016 - 21:55:29: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 21:55:29: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 21:55:29: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 21:55:29: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 22:06:19: Error log file session closed.
+L 06/11/2016 - 22:07:19: SourceMod error session started
+L 06/11/2016 - 22:07:19: Info (map "workshop/390444486/awp_batson_dev") (file "errors_20160611.log")
+L 06/11/2016 - 22:07:19: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 22:07:19: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 22:07:19: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 22:07:19: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 22:21:14: Error log file session closed.
+L 06/11/2016 - 22:22:14: SourceMod error session started
+L 06/11/2016 - 22:22:14: Info (map "workshop/595069956/aim_map_ak47") (file "errors_20160611.log")
+L 06/11/2016 - 22:22:14: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 22:22:14: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 22:22:14: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 22:22:14: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 22:38:15: Error log file session closed.
+L 06/11/2016 - 22:39:15: SourceMod error session started
+L 06/11/2016 - 22:39:15: Info (map "workshop/144290900/ar_cubedeath") (file "errors_20160611.log")
+L 06/11/2016 - 22:39:15: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 22:39:15: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 22:39:15: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 22:39:15: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 22:46:35: Error log file session closed.
+L 06/11/2016 - 22:47:35: SourceMod error session started
+L 06/11/2016 - 22:47:35: Info (map "workshop/143652850/gg_mini_dust_go") (file "errors_20160611.log")
+L 06/11/2016 - 22:47:35: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 22:47:35: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 22:47:35: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 22:47:35: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 22:57:58: Error log file session closed.
+L 06/11/2016 - 22:58:58: SourceMod error session started
+L 06/11/2016 - 22:58:58: Info (map "workshop/302792822/aim_bedi_awp_map") (file "errors_20160611.log")
+L 06/11/2016 - 22:58:58: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 22:58:58: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 22:58:58: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 22:58:58: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 23:11:49: Error log file session closed.
+L 06/11/2016 - 23:12:49: SourceMod error session started
+L 06/11/2016 - 23:12:49: Info (map "workshop/415079514/aim_proper") (file "errors_20160611.log")
+L 06/11/2016 - 23:12:49: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 23:12:49: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 23:12:49: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 23:12:49: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 23:23:08: Error log file session closed.
+L 06/11/2016 - 23:24:08: SourceMod error session started
+L 06/11/2016 - 23:24:08: Info (map "workshop/165993910/fy_tibet") (file "errors_20160611.log")
+L 06/11/2016 - 23:24:08: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 23:24:08: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 23:24:08: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 23:24:08: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 23:39:18: Error log file session closed.
+L 06/11/2016 - 23:40:18: SourceMod error session started
+L 06/11/2016 - 23:40:18: Info (map "workshop/177128990/ar_desertstorm") (file "errors_20160611.log")
+L 06/11/2016 - 23:40:18: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 23:40:18: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 23:40:18: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 23:40:18: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()
+L 06/11/2016 - 23:50:56: Error log file session closed.
+L 06/11/2016 - 23:51:56: SourceMod error session started
+L 06/11/2016 - 23:51:56: Info (map "workshop/292275729/fy_kubarizek") (file "errors_20160611.log")
+L 06/11/2016 - 23:51:56: [SM] Plugin encountered error 25: Call was aborted
+L 06/11/2016 - 23:51:56: [SM] Native "SetFailState" reported: [SAVM] Error with database : [2003]: Can't connect to MySQL server on '186.64.115.140' (4)
+L 06/11/2016 - 23:51:56: [SM] Displaying call stack trace for plugin "SAVM.smx":
+L 06/11/2016 - 23:51:56: [SM]   [0]  Line 387, C:\Users\Arkarr\Desktop\SAVM.sp::GotDatabase()

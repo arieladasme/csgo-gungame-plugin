@@ -1,0 +1,59 @@
+"Phrases"
+{
+    "Has lost a level due to team kill"
+    {
+        "#format"    "{1:s},{2:s}"
+        "es"         "{GREEN}[GunGame] {teamcolor}{1}{NORMAL} perdió un nivel por matar a {teamcolor}{2}{NORMAL}"
+		
+    }
+    "Has lost levels due to team kill"
+    {
+        "#format"    "{1:s},{2:s},{3:s}"
+       "es"         "{GREEN}[GunGame] {teamcolor}{1}{NORMAL} perdió {3} por matar a {teamcolor}{2}{NORMAL}"
+		
+    }
+	"1>levels"
+	{
+		"#format"	"{1:d}"
+		"en"	"{default}{1} {GREEN}level"
+		"fr"	"{default}{1} {GREEN}niveau"
+		"de"	"{default}{1} {GREEN}Level"
+		"ru"	"{default}{1} {GREEN}уровень"
+		"pt"	"{default}{1} {GREEN}nivel"
+		"es"	"{default}{1} {GREEN}nivel"
+		"pl"	"{default}{1} {GREEN}poziom"
+	}
+	"x1>levels"
+	{
+		"#format"	"{1:d}"
+		"en"	"{default}{1} {GREEN}levels"
+		"fr"	"{default}{1} {GREEN}niveaux"
+		"de"	"{default}{1} {GREEN}Level"
+		"ru"	"{default}{1} {GREEN}уровень"
+		"pt"	"{default}{1} {GREEN}niveis"
+		"es"	"{default}{1} {GREEN}niveles"
+		"pl"	"{default}{1} {GREEN}poziomy"
+	}
+	"x2-x4>levels"
+	{
+		"#format"	"{1:d}"
+		"en"	"{default}{1} {GREEN}levels"
+		"fr"	"{default}{1} {GREEN}niveaux"
+		"de"	"{default}{1} {GREEN}Level"
+		"ru"	"{default}{1} {GREEN}уровня"
+		"pt"	"{default}{1} {GREEN}niveis"
+		"es"	"{default}{1} {GREEN}niveles"
+		"pl"	"{default}{1} {GREEN}poziomy"
+	}
+	"x5-x20>levels"
+	{
+		"#format"	"{1:d}"
+		"en"	"{default}{1} {GREEN}levels"
+		"fr"	"{default}{1} {GREEN}niveaux"
+		"de"	"{default}{1} {GREEN}Level"
+		"ru"	"{default}{1} {GREEN}уровней"
+		"pt"	"{default}{1} {GREEN}niveis"
+		"es"	"{default}{1} {GREEN}niveles"
+		"pl"	"{default}{1} {GREEN}poziomy"
+	}
+}

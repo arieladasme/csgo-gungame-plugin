@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"Banned"
+	{
+		"#format"		"{1:s},{2:c},{3:i},{4:i},{5:i},{6:i}"
+
+		/* ---- comment area ---
+		Remember save file UTF-8 (without BOM)
+			{1} = Date when ban expired
+			{2} = Enter new line
+			{3} = Days left
+			{4} = Hours left
+			{5} = Minutes left
+			{6} = Seconds left
+
+			- Example 1 = "en"	"Banned to {1}{2}{3}d {4}h {5}m {6}s left"
+			shows to banned player:
+			Disconnect: Banned to 2011-05-27 11:28:59
+			0d 0h 55m 9s left.
+
+			- You can edit, example 2 = "en"	"Banned to {1}{2}http://www.google.com/"
+			shows:
+			Disconnect: Banned to 2011-05-27 11:28:59
+			http://www.google.com/.
+		
+			--- comment area --- */
+
+		"en"			"You have been banned from this server.{2}{3}d {4}h {5}m {6}s left = {1}"
+	}
+
+	"Banned chat"
+	{
+		"#format"		"{1:N},{2:s},{3:c},{4:i},{5:i},{6:i},{7:i}"
+
+		/* ---- comment area ---
+			{1} = Client name
+			{2} = Date when ban expired
+			{3} = Enter new line
+			{4} = Days left
+			{5} = Hours left
+			{6} = Minutes left
+			{7} = Seconds left
+
+			- Example 1 = "en"	"[STB2] {1} banned {2}{3}{4}d {5}h {6}m {7}s left"
+			shows in chat:
+			[STB2] Name banned 2011-05-27 11:28:59
+			0d 0h 55m 9s left
+
+			- You can edit, example 2 = "en"	"Player {1} left the game (Banned){3}{4}d {5}h {6}m {7}s left = {2}"
+			shows:
+			Player Bacardi left the game (Banned)
+			0d 0h 55m 9s left = 2011-05-27 11:28:59
+		
+			--- comment area --- */
+
+		"en"			"Player {1} left the game (Banned){3}{4}d {5}h {6}m {7}s left = {2}"
+	}
+}

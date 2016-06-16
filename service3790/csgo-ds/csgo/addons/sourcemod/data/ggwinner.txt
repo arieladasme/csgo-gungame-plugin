@@ -1,0 +1,28 @@
+//Structure:
+//"winner"
+//{
+//    "anything here"
+//    {
+//       "title"  "title of the mod"
+//       "load"   "load command to load the mod (loads when map changes)
+//       "unload" "unload command for the mod (unloads on map change or
+//               on menu slot selected - the fastest one)
+//    }
+//}
+//gg_call_menu admin cmd to bring up menu
+
+//"winner"
+//{
+//	"cmd1"
+//	{
+//	  "title"  "dump1"
+//	  "load"   "echo Loaded 1;echo Loaded 2"
+//	  "unload" "echo UN 1;echo UN 2"
+//	}
+//	"cmd2"
+//	{
+//	  "title"  "dump2"
+//	  "load"   "echo Loaded dump2"
+//	  "unload" "echo UN dump2"
+//	}
+//}

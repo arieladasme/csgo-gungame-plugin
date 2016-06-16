@@ -1,0 +1,850 @@
+L 06/13/2016 - 00:00:19: SourceMod log file session started (file "L20160613.log") (Version "1.7.3-dev+5286")
+L 06/13/2016 - 00:00:19: [SM] Changed map to "ar_desertstorm"
+L 06/13/2016 - 00:00:20: -------- Mapchange to workshop/177128990/ar_desertstorm --------
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:00:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:00:28: [randomcycle.smx] RandomCycle has chosen aim_map_night for the nextmap.
+L 06/13/2016 - 00:00:43: [basecommands.smx] "ajoFF' -zG-<1419><STEAM_1:0:26361891><>" changed map to "gg_mini_dust_go"
+L 06/13/2016 - 00:00:46: [SM] Changed map to "gg_mini_dust_go"
+L 06/13/2016 - 00:00:47: -------- Mapchange to workshop/143652850/gg_mini_dust_go --------
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:01:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:01:28: [randomcycle.smx] RandomCycle has chosen fy_elevated_t0 for the nextmap.
+L 06/13/2016 - 00:05:42: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 00:06:03: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_defender.
+L 06/13/2016 - 00:11:24: [SM] Changed map to "aim_defender"
+L 06/13/2016 - 00:11:24: -------- Mapchange to workshop/312515983/aim_defender --------
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:11:32: [randomcycle.smx] RandomCycle has chosen gg_exportz for the nextmap.
+L 06/13/2016 - 00:17:37: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 00:17:58: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_chicken_ak.
+L 06/13/2016 - 00:25:00: [SM] Changed map to "aim_chicken_ak"
+L 06/13/2016 - 00:25:01: -------- Mapchange to workshop/282977521/aim_chicken_ak --------
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:25:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:25:10: [randomcycle.smx] RandomCycle has chosen $2000$ for the nextmap.
+L 06/13/2016 - 00:31:14: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 00:31:35: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_shotty.
+L 06/13/2016 - 00:39:36: [SM] Changed map to "ar_shotty"
+L 06/13/2016 - 00:39:36: -------- Mapchange to workshop/177636963/ar_shotty --------
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:39:44: [randomcycle.smx] RandomCycle has chosen aim_map_training for the nextmap.
+L 06/13/2016 - 00:44:33: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 00:44:53: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_warmup_d.
+L 06/13/2016 - 00:49:09: [SM] Changed map to "aim_warmup_d"
+L 06/13/2016 - 00:49:09: -------- Mapchange to workshop/125750763/aim_warmup_d --------
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 00:49:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 00:49:18: [randomcycle.smx] RandomCycle has chosen gg_zenith for the nextmap.
+L 06/13/2016 - 00:53:57: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 00:54:19: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_deagle_jakke.
+L 06/13/2016 - 01:00:57: [SM] Changed map to "aim_deagle_jakke"
+L 06/13/2016 - 01:00:57: -------- Mapchange to workshop/400539860/aim_deagle_jakke --------
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 01:00:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 01:01:05: [randomcycle.smx] RandomCycle has chosen ar_shoots for the nextmap.
+L 06/13/2016 - 01:08:25: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 01:08:45: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_endorush.
+L 06/13/2016 - 01:19:28: [SM] Changed map to "gg_endorush"
+L 06/13/2016 - 01:19:29: -------- Mapchange to workshop/126658652/gg_endorush --------
+L 06/13/2016 - 01:19:37: [randomcycle.smx] RandomCycle has chosen fy_frantic for the nextmap.
+L 06/13/2016 - 01:25:11: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 01:25:32: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_house.
+L 06/13/2016 - 01:35:12: [SM] Changed map to "fy_house"
+L 06/13/2016 - 01:35:12: -------- Mapchange to workshop/171893126/fy_house --------
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 01:35:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 01:35:21: [randomcycle.smx] RandomCycle has chosen aim_awp_bungalow for the nextmap.
+L 06/13/2016 - 01:40:30: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 01:40:51: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: awp_lego_2015.
+L 06/13/2016 - 01:44:39: [SM] Changed map to "awp_lego_2015"
+L 06/13/2016 - 01:44:40: -------- Mapchange to workshop/412137767/awp_lego_2015 --------
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 01:44:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 01:44:48: [randomcycle.smx] RandomCycle has chosen 35hp_riptosarena for the nextmap.
+L 06/13/2016 - 01:50:27: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 01:50:48: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_tipsy_b3.
+L 06/13/2016 - 02:50:49: [SM] Changed map to "ar_tipsy_b3"
+L 06/13/2016 - 02:50:51: -------- Mapchange to workshop/126296412/ar_tipsy_b3 --------
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 02:50:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 02:51:00: [randomcycle.smx] RandomCycle has chosen awp_asylum for the nextmap.
+L 06/13/2016 - 02:58:18: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 09:40:07: [SM] Changed map to "fy_elevated_t0"
+L 06/13/2016 - 09:40:09: -------- Mapchange to workshop/126829889/fy_elevated_t0 --------
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 09:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 09:40:17: [randomcycle.smx] RandomCycle has chosen ar_aim_shotty for the nextmap.
+L 06/13/2016 - 09:44:26: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 09:47:45: [SM] Changed map to "2_rooms_w"
+L 06/13/2016 - 09:47:46: -------- Mapchange to workshop/449416365/2_rooms_w --------
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 09:47:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 09:47:54: [randomcycle.smx] RandomCycle has chosen aim_map_training for the nextmap.
+L 06/13/2016 - 09:51:29: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 09:51:45: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_shootout.
+L 06/13/2016 - 11:31:22: [SM] Changed map to "aim_shootout"
+L 06/13/2016 - 11:31:23: -------- Mapchange to workshop/125611976/aim_shootout --------
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 11:31:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 11:31:31: [randomcycle.smx] RandomCycle has chosen fy_house for the nextmap.
+L 06/13/2016 - 11:36:33: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 11:36:37: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_arena.
+L 06/13/2016 - 11:41:19: [SM] Changed map to "ar_arena"
+L 06/13/2016 - 11:41:20: -------- Mapchange to workshop/146351995/ar_arena --------
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 11:41:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 11:41:27: [randomcycle.smx] RandomCycle has chosen aim_selfie for the nextmap.
+L 06/13/2016 - 11:47:29: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 11:47:32: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_fe_texture_shotz.
+L 06/13/2016 - 11:53:19: [SM] Changed map to "gg_fe_texture_shotz"
+L 06/13/2016 - 11:53:20: -------- Mapchange to workshop/149100115/gg_FE_texture_shotz --------
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 11:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 11:53:28: [randomcycle.smx] RandomCycle has chosen aim_proper for the nextmap.
+L 06/13/2016 - 11:56:06: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 11:56:09: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_3rooms.
+L 06/13/2016 - 12:01:08: [SM] Changed map to "ar_3rooms"
+L 06/13/2016 - 12:01:08: -------- Mapchange to workshop/175314656/ar_3rooms --------
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:01:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:01:16: [randomcycle.smx] RandomCycle has chosen $2000$ for the nextmap.
+L 06/13/2016 - 12:05:04: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 12:05:05: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_map_training.
+L 06/13/2016 - 12:10:36: [SM] Changed map to "aim_map_training"
+L 06/13/2016 - 12:10:37: -------- Mapchange to workshop/486698947/aim_map_training --------
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:10:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:10:45: [randomcycle.smx] RandomCycle has chosen gg_townsquare for the nextmap.
+L 06/13/2016 - 12:13:52: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 12:13:57: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_combat-arena.
+L 06/13/2016 - 12:17:45: [SM] Changed map to "ar_combat-arena"
+L 06/13/2016 - 12:17:46: -------- Mapchange to workshop/219810220/ar_combat-arena --------
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:17:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:17:54: [randomcycle.smx] RandomCycle has chosen fy_frantic for the nextmap.
+L 06/13/2016 - 12:24:58: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 12:25:00: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_frantic.
+L 06/13/2016 - 12:32:26: [SM] Changed map to "fy_frantic"
+L 06/13/2016 - 12:32:28: -------- Mapchange to workshop/491751274/fy_frantic --------
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:32:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:32:36: [randomcycle.smx] RandomCycle has chosen fy_kubarizek for the nextmap.
+L 06/13/2016 - 12:36:53: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 12:36:56: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: 2_rooms_w.
+L 06/13/2016 - 12:43:00: [SM] Changed map to "2_rooms_w"
+L 06/13/2016 - 12:43:00: -------- Mapchange to workshop/449416365/2_rooms_w --------
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:43:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:43:08: [randomcycle.smx] RandomCycle has chosen aim_map_ak47 for the nextmap.
+L 06/13/2016 - 12:46:27: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 12:46:32: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_simple_aztec.
+L 06/13/2016 - 12:50:01: [SM] Changed map to "ar_simple_aztec"
+L 06/13/2016 - 12:50:03: -------- Mapchange to workshop/170941799/ar_simple_aztec --------
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 12:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 12:50:10: [randomcycle.smx] RandomCycle has chosen aim_proper for the nextmap.
+L 06/13/2016 - 13:16:09: -------- Mapchange to workshop/170941799/ar_simple_aztec --------
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 13:16:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 13:16:16: [randomcycle.smx] RandomCycle has chosen gg_yellow_arena_1 for the nextmap.
+L 06/13/2016 - 13:20:15: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 13:20:16: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_chicken_ak.
+L 06/13/2016 - 13:23:57: [SM] Changed map to "aim_chicken_ak"
+L 06/13/2016 - 13:23:57: -------- Mapchange to workshop/282977521/aim_chicken_ak --------
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 13:23:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 13:24:05: [randomcycle.smx] RandomCycle has chosen ar_warehouse for the nextmap.
+L 06/13/2016 - 13:30:57: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 13:31:00: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_switch.
+L 06/13/2016 - 13:44:33: [SM] Changed map to "fy_switch"
+L 06/13/2016 - 13:44:35: -------- Mapchange to workshop/160591343/fy_switch --------
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 13:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 13:44:43: [randomcycle.smx] RandomCycle has chosen fy_arena for the nextmap.
+L 06/13/2016 - 13:47:47: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 13:48:08: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_karma.
+L 06/13/2016 - 13:53:44: [SM] Changed map to "ar_karma"
+L 06/13/2016 - 13:53:45: -------- Mapchange to workshop/414117084/ar_karma --------
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 13:53:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 13:53:53: [randomcycle.smx] RandomCycle has chosen gg_endorush for the nextmap.
+L 06/13/2016 - 13:57:33: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 13:57:54: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_desertstorm.
+L 06/13/2016 - 14:02:02: [SM] Changed map to "ar_desertstorm"
+L 06/13/2016 - 14:02:04: -------- Mapchange to workshop/177128990/ar_desertstorm --------
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 14:02:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 14:02:12: [randomcycle.smx] RandomCycle has chosen aim_map_training for the nextmap.
+L 06/13/2016 - 14:07:41: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 14:07:46: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_funtimes.
+L 06/13/2016 - 14:19:12: [SM] Changed map to "ar_funtimes"
+L 06/13/2016 - 14:19:14: -------- Mapchange to workshop/175410200/ar_funtimes --------
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 14:19:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 14:19:22: [randomcycle.smx] RandomCycle has chosen fy_simpsons_32 for the nextmap.
+L 06/13/2016 - 14:24:14: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 14:24:34: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_switch.
+L 06/13/2016 - 14:31:07: [SM] Changed map to "fy_switch"
+L 06/13/2016 - 14:31:08: -------- Mapchange to workshop/160591343/fy_switch --------
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 14:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 14:31:16: [randomcycle.smx] RandomCycle has chosen ar_karma for the nextmap.
+L 06/13/2016 - 14:35:42: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 14:35:43: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_stoneworld_t0.
+L 06/13/2016 - 14:42:41: [SM] Changed map to "fy_stoneworld_t0"
+L 06/13/2016 - 14:42:42: -------- Mapchange to workshop/125653222/fy_stoneworld_t0_beta3 --------
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 14:42:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 14:42:50: [randomcycle.smx] RandomCycle has chosen gg_funfest_csgo for the nextmap.
+L 06/13/2016 - 14:47:02: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 14:47:17: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_buzzkill_csgo.
+L 06/13/2016 - 14:54:44: [SM] Changed map to "fy_buzzkill_csgo"
+L 06/13/2016 - 14:54:44: -------- Mapchange to workshop/204992162/fy_buzzkill_csgo --------
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 14:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 14:54:52: [randomcycle.smx] RandomCycle has chosen fy_urbanstreets for the nextmap.
+L 06/13/2016 - 15:00:17: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 15:00:37: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_chicken_ak.
+L 06/13/2016 - 15:07:36: [SM] Changed map to "aim_chicken_ak"
+L 06/13/2016 - 15:07:37: -------- Mapchange to workshop/282977521/aim_chicken_ak --------
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 15:07:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 15:07:45: [randomcycle.smx] RandomCycle has chosen ar_concrete for the nextmap.
+L 06/13/2016 - 15:12:20: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 15:12:37: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: mini_dust_pro.
+L 06/13/2016 - 15:19:17: [SM] Changed map to "mini_dust_pro"
+L 06/13/2016 - 15:19:18: -------- Mapchange to workshop/314193157/mini_dust_pro --------
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 15:19:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 15:19:26: [randomcycle.smx] RandomCycle has chosen aim_asiimov for the nextmap.
+L 06/13/2016 - 15:24:48: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 15:25:09: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_funfest_csgo.
+L 06/13/2016 - 15:33:14: [SM] Changed map to "gg_funfest_csgo"
+L 06/13/2016 - 15:33:15: -------- Mapchange to workshop/125783497/gg_funfest_csgo --------
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 15:33:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 15:33:24: [randomcycle.smx] RandomCycle has chosen fy_dusty for the nextmap.
+L 06/13/2016 - 15:41:47: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 15:42:07: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_beach.
+L 06/13/2016 - 15:49:04: [SM] Changed map to "ar_beach"
+L 06/13/2016 - 15:49:04: -------- Mapchange to workshop/177557647/ar_beach --------
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 15:49:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 15:49:13: [randomcycle.smx] RandomCycle has chosen aim_map_ak47 for the nextmap.
+L 06/13/2016 - 15:53:14: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 15:53:34: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_bedi_awp_map.
+L 06/13/2016 - 16:01:24: [SM] Changed map to "aim_bedi_awp_map"
+L 06/13/2016 - 16:01:26: -------- Mapchange to workshop/302792822/aim_bedi_awp_map --------
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 16:01:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 16:01:34: [randomcycle.smx] RandomCycle has chosen aim_bedi_awp_map for the nextmap.
+L 06/13/2016 - 16:06:32: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 16:06:39: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_awp_bungalow.
+L 06/13/2016 - 16:15:20: [SM] Changed map to "aim_awp_bungalow"
+L 06/13/2016 - 16:15:20: -------- Mapchange to workshop/307921746/aim_awp_bungalow --------
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 16:15:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 16:15:28: [randomcycle.smx] RandomCycle has chosen gg_cf2_pink_panther for the nextmap.
+L 06/13/2016 - 16:22:26: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 16:22:30: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_mini_dust_go.
+L 06/13/2016 - 16:30:42: [SM] Changed map to "gg_mini_dust_go"
+L 06/13/2016 - 16:30:43: -------- Mapchange to workshop/143652850/gg_mini_dust_go --------
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 16:30:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 16:30:52: [randomcycle.smx] RandomCycle has chosen aim_bluebox for the nextmap.
+L 06/13/2016 - 16:34:40: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 16:35:01: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_buzzkill_csgo.
+L 06/13/2016 - 16:41:33: [SM] Changed map to "fy_buzzkill_csgo"
+L 06/13/2016 - 16:41:33: -------- Mapchange to workshop/204992162/fy_buzzkill_csgo --------
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 16:41:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 16:41:41: [randomcycle.smx] RandomCycle has chosen aim_warmup_d for the nextmap.
+L 06/13/2016 - 16:49:24: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 16:49:45: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: awp_lego_2015.
+L 06/13/2016 - 16:59:46: [SM] Changed map to "awp_lego_2015"
+L 06/13/2016 - 16:59:48: -------- Mapchange to workshop/412137767/awp_lego_2015 --------
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 16:59:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 16:59:56: [randomcycle.smx] RandomCycle has chosen ar_simple_aztec for the nextmap.
+L 06/13/2016 - 17:08:26: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 17:08:39: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_pool_day.
+L 06/13/2016 - 17:23:21: [SM] Changed map to "fy_pool_day"
+L 06/13/2016 - 17:23:23: -------- Mapchange to workshop/122521875/fy_pool_day --------
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 17:23:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 17:23:32: [randomcycle.smx] RandomCycle has chosen aim_dust_2015 for the nextmap.
+L 06/13/2016 - 17:28:31: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 17:28:48: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_blockfort_v2.
+L 06/13/2016 - 17:33:59: [SM] Changed map to "fy_blockfort_v2"
+L 06/13/2016 - 17:33:59: -------- Mapchange to workshop/128714639/fy_blockfort_v2 --------
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 17:33:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 17:34:07: [randomcycle.smx] RandomCycle has chosen gg_ctm_csgo for the nextmap.
+L 06/13/2016 - 17:43:07: -------- Mapchange to workshop/128714639/fy_blockfort_v2 --------
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 17:43:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 17:43:15: [randomcycle.smx] RandomCycle has chosen fy_house for the nextmap.
+L 06/13/2016 - 17:47:50: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 17:47:52: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_endorush.
+L 06/13/2016 - 17:55:23: [SM] Changed map to "gg_endorush"
+L 06/13/2016 - 17:55:24: -------- Mapchange to workshop/126658652/gg_endorush --------
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 17:55:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 17:55:32: [randomcycle.smx] RandomCycle has chosen gg_exportz for the nextmap.
+L 06/13/2016 - 18:00:41: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:01:02: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_yellow_arena_1.
+L 06/13/2016 - 18:06:42: [SM] Changed map to "gg_yellow_arena_1"
+L 06/13/2016 - 18:06:43: -------- Mapchange to workshop/150343780/gg_yellow_arena_1 --------
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 18:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 18:06:51: [randomcycle.smx] RandomCycle has chosen ar_desertstorm for the nextmap.
+L 06/13/2016 - 18:11:30: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:11:50: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_dinoiceworld2_t0.
+L 06/13/2016 - 18:18:04: [SM] Changed map to "fy_dinoiceworld2_t0"
+L 06/13/2016 - 18:18:04: -------- Mapchange to workshop/125651872/fy_dinoiceworld2_t0 --------
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 18:18:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 18:18:12: [randomcycle.smx] RandomCycle has chosen aim_asiimov for the nextmap.
+L 06/13/2016 - 18:23:24: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:23:44: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_desertstorm.
+L 06/13/2016 - 18:29:39: [SM] Changed map to "ar_desertstorm"
+L 06/13/2016 - 18:29:41: -------- Mapchange to workshop/177128990/ar_desertstorm --------
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 18:29:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 18:29:49: [randomcycle.smx] RandomCycle has chosen fy_snow_t0 for the nextmap.
+L 06/13/2016 - 18:34:55: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:34:59: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: $2000$.
+L 06/13/2016 - 18:39:46: [SM] Changed map to "$2000$"
+L 06/13/2016 - 18:39:46: -------- Mapchange to workshop/249814502/$2000$csgo --------
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 18:39:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 18:39:54: [randomcycle.smx] RandomCycle has chosen ar_storage for the nextmap.
+L 06/13/2016 - 18:43:59: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:44:20: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_rxg-gravity.
+L 06/13/2016 - 18:48:43: [SM] Changed map to "ar_rxg-gravity"
+L 06/13/2016 - 18:48:45: -------- Mapchange to workshop/258530919/ar_rxg-gravity --------
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 18:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 18:48:53: [randomcycle.smx] RandomCycle has chosen aim_bedi_awp_map for the nextmap.
+L 06/13/2016 - 18:56:04: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 18:56:17: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_shoots.
+L 06/13/2016 - 19:02:18: [SM] Changed map to "ar_shoots"
+L 06/13/2016 - 19:02:18: -------- Mapchange to ar_shoots --------
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 19:02:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 19:02:27: [randomcycle.smx] RandomCycle has chosen ar_concrete for the nextmap.
+L 06/13/2016 - 19:09:18: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 19:09:21: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_mini_dust_go.
+L 06/13/2016 - 19:27:33: [SM] Changed map to "gg_mini_dust_go"
+L 06/13/2016 - 19:27:34: -------- Mapchange to workshop/143652850/gg_mini_dust_go --------
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 19:27:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 19:27:42: [randomcycle.smx] RandomCycle has chosen fy_sandstone_t0 for the nextmap.
+L 06/13/2016 - 19:33:29: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 19:33:48: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_beach.
+L 06/13/2016 - 19:39:47: [SM] Changed map to "ar_beach"
+L 06/13/2016 - 19:39:48: -------- Mapchange to workshop/177557647/ar_beach --------
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 19:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 19:39:56: [randomcycle.smx] RandomCycle has chosen fy_dinoiceworld2_t0 for the nextmap.
+L 06/13/2016 - 19:44:10: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 19:44:23: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_elevated_t0.
+L 06/13/2016 - 19:51:51: [SM] Changed map to "fy_elevated_t0"
+L 06/13/2016 - 19:51:53: -------- Mapchange to workshop/126829889/fy_elevated_t0 --------
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 19:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 19:52:01: [randomcycle.smx] RandomCycle has chosen gg_zenith for the nextmap.
+L 06/13/2016 - 19:58:58: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 19:59:18: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_bloodstroke_dtk.
+L 06/13/2016 - 20:13:04: [SM] Changed map to "gg_bloodstroke_dtk"
+L 06/13/2016 - 20:13:05: -------- Mapchange to workshop/338637068/gg_bloodstroke_dtk --------
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 20:13:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 20:13:13: [randomcycle.smx] RandomCycle has chosen ar_warehouse for the nextmap.
+L 06/13/2016 - 20:21:02: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 20:21:23: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_warehouse.
+L 06/13/2016 - 20:28:01: [SM] Changed map to "ar_warehouse"
+L 06/13/2016 - 20:28:02: -------- Mapchange to workshop/167335948/ar_warehouse --------
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 20:28:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 20:28:10: [randomcycle.smx] RandomCycle has chosen awp_lego_2015 for the nextmap.
+L 06/13/2016 - 20:35:10: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 20:35:31: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_arena.
+L 06/13/2016 - 20:45:56: [SM] Changed map to "ar_arena"
+L 06/13/2016 - 20:45:57: -------- Mapchange to workshop/146351995/ar_arena --------
+L 06/13/2016 - 20:46:05: [randomcycle.smx] RandomCycle has chosen fy_dusty for the nextmap.
+L 06/13/2016 - 20:51:57: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 20:52:17: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_wolfenstein_3d.
+L 06/13/2016 - 20:58:48: [SM] Changed map to "gg_wolfenstein_3d"
+L 06/13/2016 - 20:58:49: -------- Mapchange to workshop/147052492/gg_wolfenstein_3d --------
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 20:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 20:58:57: [randomcycle.smx] RandomCycle has chosen $2000$ for the nextmap.
+L 06/13/2016 - 21:04:29: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 21:04:46: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: aim_bedi_awp_map.
+L 06/13/2016 - 21:09:36: [SM] Changed map to "aim_bedi_awp_map"
+L 06/13/2016 - 21:09:38: -------- Mapchange to workshop/302792822/aim_bedi_awp_map --------
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 21:09:46: [randomcycle.smx] RandomCycle has chosen aim_chicken_ak for the nextmap.
+L 06/13/2016 - 21:16:15: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 21:16:29: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_rxg-gravity.
+L 06/13/2016 - 21:24:31: [SM] Changed map to "ar_rxg-gravity"
+L 06/13/2016 - 21:24:31: -------- Mapchange to workshop/258530919/ar_rxg-gravity --------
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 21:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 21:24:40: [randomcycle.smx] RandomCycle has chosen aim_dust_2015 for the nextmap.
+L 06/13/2016 - 21:34:02: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 21:34:12: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_house.
+L 06/13/2016 - 21:48:17: [SM] Changed map to "fy_house"
+L 06/13/2016 - 21:48:19: -------- Mapchange to workshop/171893126/fy_house --------
+L 06/13/2016 - 21:48:27: [randomcycle.smx] RandomCycle has chosen aim_bedi_awp_map for the nextmap.
+L 06/13/2016 - 21:54:02: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 21:54:09: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_freeze_csgo.
+L 06/13/2016 - 22:03:49: [SM] Changed map to "ar_freeze_csgo"
+L 06/13/2016 - 22:03:49: -------- Mapchange to workshop/125728649/ar_freeze_csgo --------
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 22:03:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 22:03:57: [randomcycle.smx] RandomCycle has chosen ar_arena for the nextmap.
+L 06/13/2016 - 22:08:54: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 22:09:15: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ak-47_map_csgo.
+L 06/13/2016 - 22:17:29: [SM] Changed map to "ak-47_map_csgo"
+L 06/13/2016 - 22:17:39: -------- Mapchange to workshop/132434038/ak-47_map_csgo --------
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 22:17:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 22:17:48: [randomcycle.smx] RandomCycle has chosen fy_infinity for the nextmap.
+L 06/13/2016 - 22:24:34: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 22:24:54: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_stoneworld_t0.
+L 06/13/2016 - 22:30:25: [SM] Changed map to "fy_stoneworld_t0"
+L 06/13/2016 - 22:30:25: -------- Mapchange to workshop/125653222/fy_stoneworld_t0_beta3 --------
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 22:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 22:30:33: [randomcycle.smx] RandomCycle has chosen gg_aim_aztekia_LSF for the nextmap.
+L 06/13/2016 - 22:38:08: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 22:38:28: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_baggage.
+L 06/13/2016 - 22:48:57: [SM] Changed map to "ar_baggage"
+L 06/13/2016 - 22:48:57: -------- Mapchange to ar_baggage --------
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 22:49:06: [randomcycle.smx] RandomCycle has chosen gg_ctm_csgo for the nextmap.
+L 06/13/2016 - 22:56:52: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 22:57:13: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: gg_funfest_csgo.
+L 06/13/2016 - 23:05:01: [SM] Changed map to "gg_funfest_csgo"
+L 06/13/2016 - 23:05:03: -------- Mapchange to workshop/125783497/gg_funfest_csgo --------
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 23:05:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 23:05:11: [randomcycle.smx] RandomCycle has chosen aim_proper for the nextmap.
+L 06/13/2016 - 23:11:21: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 23:11:42: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: ar_shoots.
+L 06/13/2016 - 23:20:30: [SM] Changed map to "ar_shoots"
+L 06/13/2016 - 23:20:30: -------- Mapchange to ar_shoots --------
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 23:20:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 23:20:39: [randomcycle.smx] RandomCycle has chosen aim_map_ak47 for the nextmap.
+L 06/13/2016 - 23:28:38: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 23:28:59: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_frantic.
+L 06/13/2016 - 23:40:03: [SM] Changed map to "fy_frantic"
+L 06/13/2016 - 23:40:04: -------- Mapchange to workshop/491751274/fy_frantic --------
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 23:40:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 23:40:12: [randomcycle.smx] RandomCycle has chosen awp_lego_3 for the nextmap.
+L 06/13/2016 - 23:47:00: [mapchooser_snd.smx] Voting for next map has started.
+L 06/13/2016 - 23:47:21: [mapchooser_snd.smx] Voting for next map has finished. Nextmap: fy_dusty.
+L 06/13/2016 - 23:56:50: [SM] Changed map to "fy_dusty"
+L 06/13/2016 - 23:56:50: -------- Mapchange to workshop/491618300/fy_dusty --------
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 06/13/2016 - 23:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 06/13/2016 - 23:56:59: [randomcycle.smx] RandomCycle has chosen ar_arena for the nextmap.

@@ -1,0 +1,9 @@
+"CustomJoinMessages"
+{
+    "messages"
+	{
+		"playerjoin"		"{PLAYERTYPE}{GREEN} {PLAYERNAME} {DEFAULT} conectado desde {GREEN}{PLAYERCOUNTRY}"
+		"playerdisc"		"{PLAYERTYPE}{GREEN} {PLAYERNAME} {DEFAULT} [{GREEN}{PLAYERCOUNTRY}] {DEFAULT} se ha ido [{DEFAULT}{DISC_REASON}]"
+		"soundfile" "music\join1.mp3"
+	}
+}  
