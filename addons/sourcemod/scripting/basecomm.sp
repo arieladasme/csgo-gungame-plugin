@@ -37,8 +37,9 @@
 #include <adminmenu>
 
 #pragma semicolon 1
+#pragma newdecls required
 
-public Plugin:myinfo =
+public Plugin myinfo =
 {
 	name = "Basic Comm Control",
 	author = "AlliedModders LLC",
@@ -47,22 +48,25 @@ public Plugin:myinfo =
 	url = "http://www.sourcemod.net/"
 };
 
-new bool:g_Muted[MAXPLAYERS+1];		// Is the player muted?
-new bool:g_Gagged[MAXPLAYERS+1];	// Is the player gagged?
+enum struct PlayerState {
+	bool isMuted; // Is the player muted?
+	bool isGagged; // Is the player gagged?
+	int gagTarget;
+}
+
+PlayerState playerstate[MAXPLAYERS+1];
 
 ConVar g_Cvar_Deadtalk;				// Holds the handle for sm_deadtalk
 ConVar g_Cvar_Alltalk;				// Holds the handle for sv_alltalk
-new bool:g_Hooked = false;			// Tracks if we've hooked events for deadtalk
+bool g_Hooked = false;				// Tracks if we've hooked events for deadtalk
 
 TopMenu hTopMenu;
-
-new g_GagTarget[MAXPLAYERS+1];
 
 #include "basecomm/gag.sp"
 #include "basecomm/natives.sp"
 #include "basecomm/forwards.sp"
 
-public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
+public APLRes AskPluginLoad2(Handle myself, bool late, char[] error, int err_max)
 {
 	CreateNative("BaseComm_IsClientGagged", Native_IsClientGagged);
 	CreateNative("BaseComm_IsClientMuted",  Native_IsClientMuted);
@@ -73,7 +77,7 @@ public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
 	return APLRes_Success;
 }
 
-public OnPluginStart()
+public void OnPluginStart()
 {
 	LoadTranslations("common.phrases");
 	LoadTranslations("basecomm.phrases");
@@ -100,7 +104,7 @@ public OnPluginStart()
 	}
 }
 
-public OnAdminMenuReady(Handle aTopMenu)
+public void OnAdminMenuReady(Handle aTopMenu)
 {
 	TopMenu topmenu = TopMenu.FromHandle(aTopMenu);
 
@@ -122,7 +126,7 @@ public OnAdminMenuReady(Handle aTopMenu)
 	}
 }
 
-public ConVarChange_Deadtalk(Handle:convar, const String:oldValue[], const String:newValue[])
+public void ConVarChange_Deadtalk(ConVar convar, const char[] oldValue, const char[] newValue)
 {
 	if (g_Cvar_Deadtalk.IntValue)
 	{
@@ -138,18 +142,17 @@ public ConVarChange_Deadtalk(Handle:convar, const String:oldValue[], const Strin
 	}
 }
 
-
-public bool:OnClientConnect(client, String:rejectmsg[], maxlen)
+public bool OnClientConnect(int client, char[] rejectmsg, int maxlen)
 {
-	g_Gagged[client] = false;
-	g_Muted[client] = false;
+	playerstate[client].isGagged = false;
+	playerstate[client].isMuted = false;
 	
 	return true;
 }
 
-public Action:OnClientSayCommand(client, const String:command[], const String:sArgs[])
+public Action OnClientSayCommand(int client, const char[] command, const char[] sArgs)
 {
-	if (client && g_Gagged[client])
+	if (client && playerstate[client].isGagged)
 	{
 		return Plugin_Stop;
 	}
@@ -168,7 +171,7 @@ public void ConVarChange_Alltalk(ConVar convar, const char[] oldValue, const cha
 			continue;
 		}
 		
-		if (g_Muted[i])
+		if (playerstate[i].isMuted)
 		{
 			SetClientListeningFlags(i, VOICE_MUTED);
 		}
@@ -190,16 +193,16 @@ public void ConVarChange_Alltalk(ConVar convar, const char[] oldValue, const cha
 	}
 }
 
-public Event_PlayerSpawn(Event event, const String:name[], bool:dontBroadcast)
+public void Event_PlayerSpawn(Event event, const char[] name, bool dontBroadcast)
 {
-	new client = GetClientOfUserId(event.GetInt("userid"));
+	int client = GetClientOfUserId(event.GetInt("userid"));
 	
 	if (!client)
 	{
 		return;	
 	}
 	
-	if (g_Muted[client])
+	if (playerstate[client].isMuted)
 	{
 		SetClientListeningFlags(client, VOICE_MUTED);
 	}
@@ -209,7 +212,7 @@ public Event_PlayerSpawn(Event event, const String:name[], bool:dontBroadcast)
 	}
 }
 
-public Event_PlayerDeath(Event event, const String:name[], bool:dontBroadcast)
+public void Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
 {
 	int client = GetClientOfUserId(event.GetInt("userid"));
 	
@@ -218,7 +221,7 @@ public Event_PlayerDeath(Event event, const String:name[], bool:dontBroadcast)
 		return;	
 	}
 	
-	if (g_Muted[client])
+	if (playerstate[client].isMuted)
 	{
 		SetClientListeningFlags(client, VOICE_MUTED);
 		return;

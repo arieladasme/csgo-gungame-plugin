@@ -1,93 +1,101 @@
 "Phrases"
 {
-	"Change Map To"
-	{
-		"es"		"Cambiar mapa a {1}?"
-	}
-
-	"Votekick Player"
-	{
-		"es"		"Expulsar a {1}?"
-	}
-
-	"Voteban Player"
-	{
-		"es"		"Banear a {1}?"
-	}
-
-	"Vote End"
-	{
-		"es"		"La respuesta a {1} es: {2}."
-	}
-
-	"Ban vote"
-	{
-		"es"		"Votar ban"
-	}
-
-	"Confirm Vote"
-	{
-		"es"		"Confirmar votación"
-	}
-
 	"Initiate Vote"
 	{
-		"es"		"Votación iniciada: {1}"
+		"#format"		"{1:s}"
+		"en"			"Initiated a vote: {1}"
 	}
-
-	"Initiated Vote Ban"
-	{
-		"es"		"Votación de ban contra {1} iniciada."
-	}
-
-	"Initiated Vote Kick"
-	{
-		"es"		"Votación iniciada para expulsar a {1}."
-	}
-
+	
 	"Initiated Vote Map"
 	{
-		"es"		"Votación de mapa iniciada."
-	}
-
-	"Kick vote"
+		"en"			"Initiated a map vote."
+	}	
+	
+	"Initiated Vote Kick"
 	{
-		"es"		"Votar expulsión"
+		"#format"		"{1:s}"
+		"en"			"Initiated a kick vote against {1}."
 	}
-
+	
+	"Initiated Vote Ban"
+	{
+		"#format"		"{1:s}"
+		"en"			"Initiated a ban vote against {1}."
+	}
+	
 	"Map Vote"
 	{
-		"es"		"Votar mapa: {1}"
-	}
-
-	"Map vote"
-	{
-		"es"		"Votar mapa"
-	}
-
-	"Vote Failed"
-	{
-		"es"		"Votación sin éxito. {1}%% de votos requeridos. (Obtenidos {2}%% de {3} votos)"
-	}
-
-	"Vote Successful"
-	{
-		"es"		"Votación exitosa. (Obtenidos {1}%% de {2} votos)"
+		"#format"		"{1:s}"
+		"en"			"Map Vote: {1}"
 	}
 
 	"Map Vote In Use"
 	{
-		"es"		"Otro administrador está utilizando el menú de votación de mapas."
+		"en"			"Another admin is currently using the map vote menu."
 	}
-
-	"Start the Vote"
+	
+	"Change Map To"
 	{
-		"es"		"Empezar la votación"
+		"#format"		"{1:s}"
+		"en"			"Change map to {1}?"
+	}	
+
+	"Votekick Player"
+	{
+		"#format"		"{1:s}"
+		"en"			"Kick {1}?"
 	}
 
+	"Voteban Player"
+	{
+		"#format"		"{1:s}"
+		"en"			"Ban {1}?"
+	}
+	
+	"Vote Successful"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"Vote successful. (Received {1}%% of {2} votes)"
+	}	
+	
+	"Vote Failed"
+	{
+		"#format"		"{1:d},{2:d},{3:d}"
+		"en"			"Vote failed. {1}%% vote required. (Received {2}%% of {3} votes)"
+	}	
+
+	"Vote End"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"The answer to {1} is: {2}."
+	}
+	"Kick vote"
+	{
+		"en"			"Kick vote"
+	}
+
+	"Ban vote"
+	{
+		"en"			"Ban vote"
+	}
+
+	"Map vote"
+	{
+		"en"			"Map vote"
+	}
+
+	"Confirm Vote"
+	{
+		"en"			"Confirm Vote"
+	}
+	
 	"Please select a map"
 	{
-		"es"		"Selecciona un mapa"
+		"en"			"Please select a map"
 	}
-
+	
+	"Start the Vote"
+	{
+		"en"			"Start the Vote"
+	}
 }

@@ -35,7 +35,9 @@
 
 #include <sourcemod>
 
-public Plugin:myinfo = 
+#pragma newdecls required
+
+public Plugin myinfo = 
 {
 	name = "Anti-Flood",
 	author = "AlliedModders LLC",
@@ -44,23 +46,26 @@ public Plugin:myinfo =
 	url = "http://www.sourcemod.net/"
 };
 
-new Float:g_LastTime[MAXPLAYERS + 1] = {0.0, ...};		/* Last time player used say or say_team */
-new g_FloodTokens[MAXPLAYERS + 1] = {0, ...};			/* Number of flood tokens player has */
+enum struct PlayerInfo {
+	float lastTime; /* Last time player used say or say_team */
+	int tokenCount; /* Number of flood tokens player has */
+}
+
+PlayerInfo playerinfo[MAXPLAYERS+1];
 
 ConVar sm_flood_time;									/* Handle to sm_flood_time convar */
-
-public OnPluginStart()
+float max_chat;
+public void OnPluginStart()
 {
 	sm_flood_time = CreateConVar("sm_flood_time", "0.75", "Amount of time allowed between chat messages");
 }
 
-public OnClientPutInServer(client)
+public void OnClientPutInServer(int client)
 {
-	g_LastTime[client] = 0.0;
-	g_FloodTokens[client] = 0;
+	playerinfo[client].lastTime = 0.0;
+	playerinfo[client].tokenCount = 0;
 }
 
-float max_chat;
 
 public bool OnClientFloodCheck(int client)
 {
@@ -72,10 +77,10 @@ public bool OnClientFloodCheck(int client)
 		return false;
 	}
 	
-	if (g_LastTime[client] >= GetGameTime())
+	if (playerinfo[client].lastTime >= GetGameTime())
 	{
 		/* If player has 3 or more flood tokens, block their message */
-		if (g_FloodTokens[client] >= 3)
+		if (playerinfo[client].tokenCount >= 3)
 		{
 			return true;
 		}
@@ -84,7 +89,7 @@ public bool OnClientFloodCheck(int client)
 	return false;
 }
 
-public OnClientFloodResult(client, bool:blocked)
+public void OnClientFloodResult(int client, bool blocked)
 {
 	if (max_chat <= 0.0 
  		|| CheckCommandAccess(client, "sm_flood_access", ADMFLAG_ROOT, true))
@@ -92,10 +97,10 @@ public OnClientFloodResult(client, bool:blocked)
 		return;
 	}
 	
-	new Float:curTime = GetGameTime();
-	new Float:newTime = curTime + max_chat;
+	float curTime = GetGameTime();
+	float newTime = curTime + max_chat;
 	
-	if (g_LastTime[client] >= curTime)
+	if (playerinfo[client].lastTime >= curTime)
 	{
 		/* If the last message was blocked, update their time limit */
 		if (blocked)
@@ -103,16 +108,16 @@ public OnClientFloodResult(client, bool:blocked)
 			newTime += 3.0;
 		}
 		/* Add one flood token when player goes over chat time limit */
-		else if (g_FloodTokens[client] < 3)
+		else if (playerinfo[client].tokenCount < 3)
 		{
-			g_FloodTokens[client]++;
+			playerinfo[client].tokenCount++;
 		}
 	}
-	else if (g_FloodTokens[client] > 0)
+	else if (playerinfo[client].tokenCount > 0)
 	{
 		/* Remove one flood token when player chats within time limit (slow decay) */
-		g_FloodTokens[client]--;
+		playerinfo[client].tokenCount--;
 	}
 	
-	g_LastTime[client] = newTime;
+	playerinfo[client].lastTime = newTime;
 }

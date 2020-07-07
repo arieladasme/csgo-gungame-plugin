@@ -37,7 +37,9 @@
 #undef REQUIRE_PLUGIN
 #include <adminmenu>
 
-public Plugin:myinfo =
+#pragma newdecls required
+
+public Plugin myinfo =
 {
 	name = "Basic Ban Commands",
 	author = "AlliedModders LLC",
@@ -48,17 +50,21 @@ public Plugin:myinfo =
 
 TopMenu hTopMenu;
 
-new g_BanTarget[MAXPLAYERS+1];
-new g_BanTargetUserId[MAXPLAYERS+1];
-new g_BanTime[MAXPLAYERS+1];
+enum struct PlayerInfo {
+	int banTarget;
+	int banTargetUserId;
+	int banTime;
+	int isWaitingForChatReason;
+}
 
-new g_IsWaitingForChatReason[MAXPLAYERS+1];
+PlayerInfo playerinfo[MAXPLAYERS+1];
+
 KeyValues g_hKvBanReasons;
-new String:g_BanReasonsPath[PLATFORM_MAX_PATH];
+char g_BanReasonsPath[PLATFORM_MAX_PATH];
 
 #include "basebans/ban.sp"
 
-public OnPluginStart()
+public void OnPluginStart()
 {
 	BuildPath(Path_SM, g_BanReasonsPath, sizeof(g_BanReasonsPath), "configs/banreasons.txt");
 
@@ -84,18 +90,18 @@ public OnPluginStart()
 	}
 }
 
-public OnMapStart()
+public void OnConfigsExecuted()
 {
 	//(Re-)Load BanReasons
 	LoadBanReasons();
 }
 
-public OnClientDisconnect(client)
+public void OnClientDisconnect(int client)
 {
-	g_IsWaitingForChatReason[client] = false;
+	playerinfo[client].isWaitingForChatReason = false;
 }
 
-LoadBanReasons()
+void LoadBanReasons()
 {
 	delete g_hKvBanReasons;
 
@@ -124,7 +130,7 @@ LoadBanReasons()
 	}
 }
 
-public OnAdminMenuReady(Handle aTopMenu)
+public void OnAdminMenuReady(Handle aTopMenu)
 {
 	TopMenu topmenu = TopMenu.FromHandle(aTopMenu);
 
@@ -138,7 +144,7 @@ public OnAdminMenuReady(Handle aTopMenu)
 	hTopMenu = topmenu;
 	
 	/* Find the "Player Commands" category */
-	new TopMenuObject:player_commands = hTopMenu.FindCategory(ADMINMENU_PLAYERCOMMANDS);
+	TopMenuObject player_commands = hTopMenu.FindCategory(ADMINMENU_PLAYERCOMMANDS);
 
 	if (player_commands != INVALID_TOPMENUOBJECT)
 	{
@@ -146,7 +152,7 @@ public OnAdminMenuReady(Handle aTopMenu)
 	}
 }
 
-public Action:Command_BanIp(client, args)
+public Action Command_BanIp(int client, int args)
 {
 	if (args < 2)
 	{
@@ -154,9 +160,9 @@ public Action:Command_BanIp(client, args)
 		return Plugin_Handled;
 	}
 
-	decl len, next_len;
-	decl String:Arguments[256];
-	decl String:arg[50], String:time[20];
+	int len, next_len;
+	char Arguments[256];
+	char arg[50], time[20];
 	
 	GetCmdArgString(Arguments, sizeof(Arguments));
 	len = BreakString(Arguments, arg, sizeof(arg));
@@ -177,9 +183,10 @@ public Action:Command_BanIp(client, args)
 		return Plugin_Handled;
 	}
 	
-	decl String:target_name[MAX_TARGET_LENGTH];
-	decl target_list[1], bool:tn_is_ml;
-	new found_client = -1;
+	char target_name[MAX_TARGET_LENGTH];
+	int target_list[1];
+	bool tn_is_ml;
+	int found_client = -1;
 	
 	if (ProcessTargetString(
 			arg,
@@ -194,7 +201,7 @@ public Action:Command_BanIp(client, args)
 		found_client = target_list[0];
 	}
 	
-	new bool:has_rcon;
+	bool has_rcon;
 	
 	if (client == 0 || (client == 1 && !IsDedicatedServer()))
 	{
@@ -202,11 +209,11 @@ public Action:Command_BanIp(client, args)
 	}
 	else
 	{
-		new AdminId:id = GetUserAdmin(client);
+		AdminId id = GetUserAdmin(client);
 		has_rcon = (id == INVALID_ADMIN_ID) ? false : GetAdminFlag(id, Admin_RCON);
 	}
 	
-	new hit_client = -1;
+	int hit_client = -1;
 	if (found_client != -1
 		&& !IsFakeClient(found_client)
 		&& (has_rcon || CanUserTarget(client, found_client)))
@@ -221,7 +228,7 @@ public Action:Command_BanIp(client, args)
 		return Plugin_Handled;
 	}
 
-	new minutes = StringToInt(time);
+	int minutes = StringToInt(time);
 
 	LogAction(client, 
 			  hit_client, 
@@ -248,7 +255,7 @@ public Action:Command_BanIp(client, args)
 	return Plugin_Handled;
 }
 
-public Action:Command_AddBan(client, args)
+public Action Command_AddBan(int client, int args)
 {
 	if (args < 2)
 	{
@@ -256,13 +263,13 @@ public Action:Command_AddBan(client, args)
 		return Plugin_Handled;
 	}
 
-	decl String:arg_string[256];
-	new String:time[50];
-	new String:authid[50];
+	char arg_string[256];
+	char time[50];
+	char authid[50];
 
 	GetCmdArgString(arg_string, sizeof(arg_string));
 
-	new len, total_len;
+	int len, total_len;
 
 	/* Get time */
 	if ((len = BreakString(arg_string, time, sizeof(time))) == -1)
@@ -284,7 +291,7 @@ public Action:Command_AddBan(client, args)
 	}
 
 	/* Verify steamid */
-	new bool:idValid = false;
+	bool idValid = false;
 	if (!strncmp(authid, "STEAM_", 6) && authid[7] == ':')
 		idValid = true;
 	else if (!strncmp(authid, "[U:", 3))
@@ -296,7 +303,14 @@ public Action:Command_AddBan(client, args)
 		return Plugin_Handled;
 	}
 
-	new minutes = StringToInt(time);
+	AdminId tid = FindAdminByIdentity("steam", authid);
+	if (client && !CanAdminTarget(GetUserAdmin(client), tid))
+	{
+		ReplyToCommand(client, "[SM] %t", "No Access");
+		return Plugin_Handled;
+	}
+
+	int minutes = StringToInt(time);
 
 	LogAction(client, 
 			  -1, 
@@ -317,7 +331,7 @@ public Action:Command_AddBan(client, args)
 	return Plugin_Handled;
 }
 
-public Action:Command_Unban(client, args)
+public Action Command_Unban(int client, int args)
 {
 	if (args < 1)
 	{
@@ -325,12 +339,12 @@ public Action:Command_Unban(client, args)
 		return Plugin_Handled;
 	}
 
-	decl String:arg[50];
+	char arg[50];
 	GetCmdArgString(arg, sizeof(arg));
 
 	ReplaceString(arg, sizeof(arg), "\"", "");	
 
-	new ban_flags;
+	int ban_flags;
 	if (IsCharNumeric(arg[0]))
 	{
 		ban_flags |= BANFLAG_IP;
@@ -348,16 +362,16 @@ public Action:Command_Unban(client, args)
 	return Plugin_Handled;
 }
 
-public Action:Command_AbortBan(client, args)
+public Action Command_AbortBan(int client, int args)
 {
 	if(!CheckCommandAccess(client, "sm_ban", ADMFLAG_BAN))
 	{
 		ReplyToCommand(client, "[SM] %t", "No Access");
 		return Plugin_Handled;
 	}
-	if(g_IsWaitingForChatReason[client])
+	if(playerinfo[client].isWaitingForChatReason)
 	{
-		g_IsWaitingForChatReason[client] = false;
+		playerinfo[client].isWaitingForChatReason = false;
 		ReplyToCommand(client, "[SM] %t", "AbortBan applied successfully");
 	}
 	else
@@ -368,12 +382,12 @@ public Action:Command_AbortBan(client, args)
 	return Plugin_Handled;
 }
 
-public Action:OnClientSayCommand(client, const String:command[], const String:sArgs[])
+public Action OnClientSayCommand(int client, const char[] command, const char[] sArgs)
 {
-	if(g_IsWaitingForChatReason[client])
+	if(playerinfo[client].isWaitingForChatReason)
 	{
-		g_IsWaitingForChatReason[client] = false;
-		PrepareBan(client, g_BanTarget[client], g_BanTime[client], sArgs);
+		playerinfo[client].isWaitingForChatReason = false;
+		PrepareBan(client, playerinfo[client].banTarget, playerinfo[client].banTime, sArgs);
 		return Plugin_Stop;
 	}
 

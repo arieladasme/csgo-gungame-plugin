@@ -50,13 +50,7 @@
 	
 	/* CGlobalEntityList */
 	"#default"
-	{
-		"#supported"
-		{
-			"game"		"left4dead2"
-			"game"		"nucleardawn"
-		}
-			
+	{			
 		"Signatures"
 		{
 			/* Functions in CGlobalEntityList */
@@ -122,8 +116,8 @@
 			{
 				/* Not 100% sure on this, why would windows change and not linux - TEST ME */
 				"windows"	"17"
-				"linux"		"63"
-				"mac"		"63"
+				"linux"		"61"
+				"mac"		"61"
 			}
 			/**
 			 * CBaseClient::SetName(char  const*);
@@ -133,8 +127,8 @@
 			"SetClientName"
 			{
 				"windows"	"16"
-				"linux"		"62"
-				"mac"		"62"
+				"linux"		"60"
+				"mac"		"60"
 			}
 			/**
 			 * Offset into CBaseClient - Used by CBaseServer::UpdateUserSettings to determine when changes have been made.
@@ -245,7 +239,8 @@
 		
 		"Keys"
 		{
-			"GameRulesProxy"	"CNuclearDawnRulesProxy"
+			"GameRulesProxy"		"CNuclearDawnRulesProxy"
+			"GameRulesDataTable"	"nd_gamerules_data"
 		}
 		
 		"Signatures"
