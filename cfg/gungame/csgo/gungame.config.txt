@@ -671,17 +671,18 @@
     
     "Sounds"
     {
-        "IntroSound"        "gungame/gungame2.mp3"
-        "KnifeLevel"        "gungame/knife_level.mp3"
-        "NadeLevel"         "gungame/nade_level.mp3"
-        "LevelSteal"        "gungame/smb3_1-up.mp3"
-        "LevelUp"           "gungame/smb3_powerup.mp3"
-        "LevelDown"         "gungame/smb3_powerdown.mp3"
-        "Triple"            "gungame/smb_star.mp3"
-        "Autoff"            "gungame/smb_warning2.mp3"
-        "MultiKill"         "gungame/multikill.mp3"   // (Ñ) VALVE
-        /* Put each song filename in this list seperated by commas */
-        "Winner"            "gungame/winner.mp3"      // (Ñ) VALVE
-        "WarmupTimerSound"  "gungame/timer.mp3"       // (Ñ) VALVE
+            "IntroSound"        "gungame/gungame2.mp3"
+            "KnifeLevel"        "gungame/finish.mp3"
+            "NadeLevel"         "gungame/danger.mp3"
+            "LevelSteal"        "gungame/suprise_md.mp3"
+            "LevelUp"           "gungame/smb3_powerup.mp3"
+            "LevelDown"         "gungame/hahanelson.mp3"
+            "Triple"            "gungame/multilvl.mp3"
+            "Autoff"            ""
+            "MultiKill"         "gungame/multikill.mp3"   // (Ñ) VALVE
+            /* Put each song filename in this list seperated by commas */
+            "Winner"            "gungame/easy.mp3, gungame/trap1.mp3, gungame/you_are_silver.mp3, gungame/dmx.mp3, gungame/spvictory.mp3"      // (Ñ) VALVE
+            "WarmupTimerSound"  "gungame/timer.mp3"       // (Ñ) VALVE
+        }
     }
-}
+    // "Winner"            "gungame/Turn_Down_For_What.mp3, gungame/franzlLang.mp3, gungame/spvictory.mp3, gungame/dbz.mp3"      // (Ñ) VALVE
