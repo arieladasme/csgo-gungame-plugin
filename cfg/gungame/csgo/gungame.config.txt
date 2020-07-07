@@ -50,7 +50,7 @@
          *      1 - Freeze players.
          *      0 - Do not freeze players.
          */
-        "WinnerFreezePlayers" "0"
+        "WinnerFreezePlayers" "1"
 
         /**
          * Winner effects.
@@ -59,7 +59,7 @@
          *      0 - Freeze players.
          *      1 - Make players fly.
          */
-        "WinnerEffect" "0"
+        "WinnerEffect" "1"
 
         /**
          * Delay before end of multiplayer game after gungame win. 
@@ -89,7 +89,7 @@
          *     0-1 - Do not multiply
          *     2-5 - Multiply by defined number of times
          */
-        "MultiplySoundVolume" "0"
+        "MultiplySoundVolume" "5"
 
         /**
          * Block weapon switch if killer leveled up with knife
@@ -125,10 +125,10 @@
          * Show leader level info in hint box 
          * (requires "ShowSpawnMsgInHintBox" to be "1")
          */
-        "ShowLeaderInHintBox" "0"
+        "ShowLeaderInHintBox" "1"
 
         /* Show leader's weapon name in chat with leading message */
-        "ShowLeaderWeapon" "0"
+        "ShowLeaderWeapon" "1"
         
         /**
          * Strip dead players weapon
@@ -138,10 +138,10 @@
          *  1 - Enabled for alive and dead players (alive players can not drop guns)
          *  2 - Enabled for dead players only (alive players can drop guns)
          */
-        "StripDeadPlayersWeapon" "0"
+        "StripDeadPlayersWeapon" "2"
         
         /* Show levels in scoreboard */
-        "LevelsInScoreboard" "1"
+        "LevelsInScoreboard" "0"
 
         /**
          * When shows levels in scoreboard it will 
@@ -162,10 +162,10 @@
         "AlltalkOnWin" "1"
         
         /* Start voting if leader level is less maximum level by this value */
-        "VoteLevelLessWeaponCount" "2"
+        "VoteLevelLessWeaponCount" "20"
         
         /* Display a join message, popup giving players instructions on how to play */
-        "JoinMessage" "1"
+        "JoinMessage" "0"
 
         /** 
          * Level down playr if they kill themself by WorldSpawn Suicide.
@@ -185,7 +185,7 @@
         "MaxLevelPerRound" "0"
 
         /* Turbo Mode: give next level weapon on level up */
-        "TurboMode" "0"
+        "TurboMode" "1"
 
         /* Knife Elite force them to only have a knife after they level up.
            They will get a normal weapon again next round */
@@ -195,7 +195,7 @@
          * How many kills they need to with the weapon to get the next level
          * Kills will count across all rounds so that you don't have to get them in one round.
          */
-        "MinKillsPerLevel" "1"
+        "MinKillsPerLevel" "2"
 
         /**
          * Enabled friendly fire automatically when a player reaches hegrenade level.
@@ -243,7 +243,7 @@
         /** 
          * Disable rtv on defined level. 0 - disabled.
          */
-        "DisableRtvLevel" "0"
+        "DisableRtvLevel" "1"
 
         /**
          * If this option is enabled, than player can level up by killing with prop_physics.
@@ -290,7 +290,7 @@
         /**
          * Prevent players from using kill command.
          */
-        "SelfKillProtection" "1"
+        "SelfKillProtection" "0"
 
         /**
          * Change game description.
@@ -338,7 +338,7 @@
         /* Give x number of level by completing the bomb planting/defusing objectives.
          * Amount giving base on the value setting.
          */
-        "ObjectiveBonus" "1"
+        "ObjectiveBonus" "0"
 
         /* Enables objective bonus on last level */
         "ObjectiveBonusWin" "0"
@@ -363,7 +363,7 @@
         "MaxHandicapLevel" "0"
         
         /* Substract handicap level by this value */
-        "HandicapLevelSubstract" "1"
+        "HandicapLevelSubstract" "0"
 
         /**
          * Gives joining players the avg/min level of all other players when they join late.
@@ -371,7 +371,7 @@
          * 1 - Avg level
          * 2 - Min level
          */
-        "HandicapMode" "2"
+        "HandicapMode" "1"
 
         /**
          * Allow players in the top rank to receive a handicap with the rest of the players.
@@ -382,7 +382,7 @@
          * 0 - Do not give handicap to the top rank players.
          * 1 - Give handicap to all players.
          */
-        "TopRankHandicap" "1"
+        "TopRankHandicap" "0"
 
         /**
          * Gives handicap level automaticaly every defined number of seconds.
@@ -406,7 +406,7 @@
          * 0 - Give handicap to all players.
          * N - Do not give handicap for the first N players.
          */
-        "HandicapTopRank" "10"
+        "HandicapTopRank" "0"
         
         /**
          * Use spectator's levels to calculate handicap level.
@@ -434,7 +434,7 @@
          * 0 - disabled
          * 1 - enabled
          */
-        "ExtraMolotovOnKnifeKill" "1"
+        "ExtraMolotovOnKnifeKill" "0"
 
         /**
          * This gives the player a weapon with 50 bullets on molotov level.
@@ -468,7 +468,7 @@
          * 0 - default clip size
          * 1-N - number of bullets
          */
-        "BonusWeaponAmmo" "50"
+        "BonusWeaponAmmo" "90"
 
         /**
          * This gives the player a weapon with 50 bullets on nade level.
@@ -498,7 +498,7 @@
          * 1 - Enable
          * 2 - Enable only for knife kills
          */
-        "ExtraNade" "0"
+        "ExtraNade" "2"
 
         /* Gives unlimited hegrenades to the player if he is on nage level */
         "UnlimitedNades" "0"
@@ -513,7 +513,7 @@
          * 0 - Disable
          * 1 and above - Minimum number of players in each team for UnlimitedNames to be on.
          */
-        "UnlimitedNadesMinPlayers" "1"
+        "UnlimitedNadesMinPlayers" "0"
         
         /**
          * Number of nades on the nade level.
@@ -526,10 +526,10 @@
         /* ----- [1.6. multi level] ----- */
         
         /* Multi Level Bonus */
-        "MultiLevelBonus" "0"
+        "MultiLevelBonus" "1"
 
         /* Enable God Mode when multi leveled */
-        "MultiLevelBonusGodMode" "1"
+        "MultiLevelBonusGodMode" "0"
 
         /**
          * Custom speed and gravity value multiplier for multi level bonus.
@@ -539,10 +539,10 @@
         "MultiLevelBonusSpeed" "1.5"
 
         /* Miltilevel visual effect */
-        "MultiLevelEffect" "0"
+        "MultiLevelEffect" "1"
 
         /* How much levels is needed to get bonus */
-        "MultiLevelAmount" "3"
+        "MultiLevelAmount" "4"
 
         /**
          * Type of the multi level effect.
@@ -558,7 +558,7 @@
         "WarmupEnabled" "1"
 
         /* Warmup time length */
-        "WarmupTimeLength" "60"
+        "WarmupTimeLength" "10"
 
         /**
          * Give random weapon on warmup.
@@ -569,7 +569,7 @@
          * 2 - Random weapon every round
          * 3 - Random weapon every spawn
          */
-        "WarmupRandomWeaponMode" "0"
+        "WarmupRandomWeaponMode" "1"
 
         /**
          * Gives unlimited hegrenades to the player if warmup is enabled.
@@ -590,7 +590,7 @@
          * 0 - Disable
          * 1..N - Levels to loose
          */
-        "TkLooseLevel" "0"
+        "TkLooseLevel" "1"
     
         /* ===== [3. GUNGAME AFK CONFIG] ===== */
         
@@ -623,7 +623,7 @@
         /* ===== [5. GUNGAME DISPLAY WINNER CONFIG] ===== */
         
         /* Display winner in MOTD window. */
-        "DisplayWinnerMotd" "1"
+        "DisplayWinnerMotd" "0"
 
         /**
           * URL to display in MOTD window. 
@@ -632,7 +632,7 @@
           *     URL Params: 
           *         close=<int> - close popup window in that number of seconds. 0 = disabled. default = disabled.
           */
-        "DisplayWinnerUrl" "http://otstrel.ru/gg5_win_csgo.php?close=10"
+        "DisplayWinnerUrl" ""
 
         /* Show player rank on win in chat */
         "ShowPlayerRankOnWin" "1"
@@ -643,7 +643,7 @@
          * 0 - Add win into stats.
          * 1 - Don't add win into stats.
          */
-        "DontAddWinsOnBot" "0"
+        "DontAddWinsOnBot" "1"
 
         /* ===== [6. GUNGAME BOTS CONFIG] ===== */
 
@@ -657,10 +657,10 @@
         "BotsCanWinGame" "0"
 
         /* Allow level up by killing a bot with knife */
-        "AllowLevelUpByKnifeBot" "0"
+        "AllowLevelUpByKnifeBot" "1"
 
         /* Allow level up by killing a bot with hegrenade */
-        "AllowLevelUpByExplodeBot" "0"
+        "AllowLevelUpByExplodeBot" "1"
 
         /* Allow level up by killing a bot with knife if there is no other human */
         "AllowLevelUpByKnifeBotIfNoHuman" "1"
