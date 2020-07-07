@@ -21,8 +21,8 @@
          *      "taser,hegrenade,molotov,incgrenade"    - Default value
          *      ""                                      - Disabled
          */
-        "FastSwitchSkipWeapons" "taser,hegrenade,molotov,incgrenade"
-        
+        "FastSwitchSkipWeapons" "hegrenade"
+
         /**
          * Switch weapon without delays after level up.
          *
@@ -82,7 +82,7 @@
         /**
          * Multiply sound effects volume.
          *
-         * In CS:GO the volume is too low if you use "sound/music" folder.
+         * In CS:GO the volume is too low.
          * You can up the volume with this multiplier.
          *
          * Options:
@@ -418,40 +418,6 @@
         
         /* ----- [1.5. equip] ----- */
         
-        /**
-         * Give extra taser for the knife kill.
-         *
-         * Options:
-         * 0 - disabled
-         * 1 - enabled
-         */
-        "ExtraTaserOnKnifeKill" "1"
-
-        /**
-         * Give extra molotov for the knife kill.
-         *
-         * Options:
-         * 0 - disabled
-         * 1 - enabled
-         */
-        "ExtraMolotovOnKnifeKill" "1"
-
-        /**
-         * This gives the player a weapon with 50 bullets on molotov level.
-         *
-         * Example:
-         *     "MolotovBonusWeaponName" "glock"  - gives glock 
-         *     "MolotovBonusWeaponName" "deagle" - gives deagle
-         *     "MolotovBonusWeaponName" ""       - feature disabled
-         */
-        "MolotovBonusWeaponName" ""
-
-        /* Gives a smoke grenade on molotov level */
-        "MolotovBonusSmoke" "0"
-
-        /* Gives a Flash grenade on molotovlevel */
-        "MolotovBonusFlash" "0"
-
         /* Auto reload current level weapon on kill */
         "ReloadWeapon" "1"
         
@@ -623,16 +589,10 @@
         /* ===== [5. GUNGAME DISPLAY WINNER CONFIG] ===== */
         
         /* Display winner in MOTD window. */
-        "DisplayWinnerMotd" "1"
+        "DisplayWinnerMotd" "0"
 
-        /**
-          * URL to display in MOTD window. 
-          *
-          * Default: http://otstrel.ru/gg5_win_csgo.php?close=10
-          *     URL Params: 
-          *         close=<int> - close popup window in that number of seconds. 0 = disabled. default = disabled.
-          */
-        "DisplayWinnerUrl" "http://otstrel.ru/gg5_win_csgo.php?close=10"
+        /* URL to display in MOTD window. */
+        "DisplayWinnerUrl" "http://otstrel.ru/gg5_win.php"
 
         /* Show player rank on win in chat */
         "ShowPlayerRankOnWin" "1"

@@ -297,11 +297,11 @@
         "level_index" "1"
     }
 
+    // not the weapons, but world entities
     "prop_physics" {
         "index" "46"
         "level_index" "46"
     }
-
     "prop_physics_multiplayer" {
         "index" "47"
         "level_index" "47"
@@ -314,10 +314,12 @@
         "clipsize" "12"
         "level_index" "5"
     }
-	"revolver" { 
+
+    // new weapons update after 15.12.2015
+    "revolver" { 
         "index" "49" 
         "slot" "1" 
-        "clipsize" "7" 
-        "level_index" "7" 
-    }  
+        "clipsize" "8" 
+        "level_index" "7"
+    }
 }
