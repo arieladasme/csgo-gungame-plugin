@@ -186,7 +186,7 @@ weapon_molotov
         "33" "negev"
 
 		"34" "taser"
-		"35"  "molotov"
+		"35"  "incgrenade"
         "36" "hegrenade"
         "37" "knife"
 
