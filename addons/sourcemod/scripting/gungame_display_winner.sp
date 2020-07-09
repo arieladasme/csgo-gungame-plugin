@@ -6,6 +6,7 @@
 #include <gungame_stats>
 #include <gungame_config>
 #include <url>
+#include <csgocolors>
 
 new String:g_looserName[MAXPLAYERS+1][MAX_NAME_SIZE];
 new String:g_winnerName[MAX_NAME_SIZE];
@@ -29,6 +30,7 @@ public Plugin:myinfo =
 public OnPluginStart()
 {
     HookEvent("player_death", Event_PlayerDeath);
+	LoadTranslations("gungame_display_winner");
 }
 
 public Event_PlayerDeath(Handle:event, const String:name[], bool:dontBroadcast)
@@ -40,6 +42,7 @@ public Event_PlayerDeath(Handle:event, const String:name[], bool:dontBroadcast)
     new victim = GetClientOfUserId(GetEventInt(event, "userid"));
     new attacker = GetClientOfUserId(GetEventInt(event, "attacker"));
     GetClientName(victim, g_looserName[attacker], sizeof(g_looserName[]));
+	
 }
 
 public GG_OnWinner(client, const String:weapon[], victim)
@@ -51,6 +54,12 @@ public GG_OnWinner(client, const String:weapon[], victim)
     GetClientName(client, g_winnerName, sizeof(g_winnerName));
     g_showWinnerOnRankUpdate = true;
     g_winner = client;
+	
+	//PrintToChatAll( "%t", "GANADOR", g_winner);
+	 for (int i = 0; i < 6; i++){
+		 CPrintToChatAllEx(client, "%t", "GANADOR", g_winnerName);
+	 }
+	
 }
 
 public GG_OnLoadRank()
@@ -128,6 +137,6 @@ public GG_ConfigParseEnd()
 
 public OnMapEnd()
 {
-    g_showWinnerOnRankUpdate = false;
+    g_showWinnerOnRankUpdate = true;
 }
 
