@@ -1,8 +1,0 @@
-"Phrases"
-{
-	"Voting Commands"
-	{
-		"no"		"Avstemmnings komandoer"
-	}
-
-}
